@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Image from "next/image";
 import { HiArrowNarrowDown, HiArrowNarrowUp } from "react-icons/hi";
-import CaseStudyUtils from "../../../core/utils/case_study_utils/case_study_utils";
+import CaseStudyUtils from "@/Core/utils/case_study_utils/case_study_utils";
 
 export default function WireFrames(props) {
   const { projectData } = props;

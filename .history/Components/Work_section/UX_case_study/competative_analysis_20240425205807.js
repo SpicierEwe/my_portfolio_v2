@@ -1,4 +1,4 @@
-import CaseStudyUtils from "../../../core/utils/case_study_utils/case_study_utils";
+import CaseStudyUtils from "@/Core/utils/case_study_utils/case_study_utils";
 
 export default function CompetativeAnalysis(props) {
   const { projectData } = props;
