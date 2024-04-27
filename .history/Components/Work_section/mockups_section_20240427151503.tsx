@@ -42,6 +42,13 @@ export default function MockupsSection() {
                       return (
                         <div key={index}>
                           {!isPhoneMockup && (
+                            //   <Image
+                            //     className="mb-1"
+                            //     src="/images/miscellaneous/mockups_browser_top_pannel.svg"
+                            //     alt="Browser top pannel"
+                            //     height={1000}
+                            //     width={1000}
+                            //   ></Image>
                             <BrowserBarWidget
                               link={link}
                               fromMdFontSize={"text-md"}
@@ -51,7 +58,7 @@ export default function MockupsSection() {
                             src={link}
                             width={1000}
                             height={1000}
-                            alt="Mockup image"
+                            alt="tue"
                           />
                         </div>
                       );

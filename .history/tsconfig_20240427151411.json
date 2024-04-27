@@ -31,8 +31,7 @@
     "core/db/db.js",
     "core/db/sub_db_data/apps_db.js",
     "components/TeachStack_section/techstack_section.tsx",
-    "components/Nav_bar/nav_bar.js",
-    "components/Work_section/work_section.js"
+    "components/Nav_bar/nav_bar.js"
   ],
   "exclude": ["node_modules"]
 }

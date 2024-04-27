@@ -1,10 +1,10 @@
 "use client";
 
-import { getIcon } from "@/core/utils/utils";
+import { getIcon } from "../../core/utils/utils";
 import Link from "next/link";
 import { useRouter, usePathname } from "next/navigation";
 
-export default function NavBar(props: any) {
+export default function NavBar(props) {
   const router = useRouter();
   const path = usePathname();
 
@@ -57,6 +57,6 @@ export default function NavBar(props: any) {
 }
 
 // returns classes
-function _navBarRendering(): string {
+function _navBarRendering() {
   return "";
 }
