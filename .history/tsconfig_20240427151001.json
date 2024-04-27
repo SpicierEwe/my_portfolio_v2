@@ -30,7 +30,7 @@
     ".next/types/**/*.ts",
     "core/db/db.js",
     "core/db/sub_db_data/apps_db.js",
-    "components/TeachStack_section/techstack_section.tsx"
+    "components/TeachStack_section/techstack_section.js"
   ],
   "exclude": ["node_modules"]
 }

@@ -3,11 +3,11 @@ import { db } from "../../core/db/db";
 import { getIcon } from "../../core/utils/utils";
 
 export default function TechStackSection() {
-  const techStackContent = [];
+  const techStackContent = [] as string[] | any[];
 
   // Iterate through the portfolio items and collect techStack
-  Object.keys(db.portfolioItems).forEach((key) => {
-    db.portfolioItems[key].forEach((item) => {
+  Object.keys(db.portfolioItems).forEach((key: string) => {
+    db.portfolioItems[key].forEach((item: any) => {
       if (item.techStack && item.techStack.length > 0) {
         techStackContent.push(...item.techStack);
       }
