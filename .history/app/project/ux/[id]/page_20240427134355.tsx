@@ -4,7 +4,7 @@ import { getIcon } from "@/core/utils/utils";
 import Image from "next/image";
 import CaseStudyComponent from "../../../../components/Work_section/UX_case_study/case_study";
 
-export default function Project({ params }: any) {
+export default function Project({ params }) {
   const { id } = params;
 
   const projectData = getProjectData(id);
