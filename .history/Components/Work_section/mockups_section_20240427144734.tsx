@@ -9,7 +9,7 @@ export default function MockupsSection() {
   useEffect(() => {
     const { phoneMockups, otherMockups } = _crawlMockups();
 
-    const newData: any[] = [
+    const newData = [
       {
         phone_mockup_links: [...data[0]["phone_mockup_links"], ...phoneMockups],
 
@@ -70,8 +70,8 @@ export default function MockupsSection() {
 }
 
 function _crawlMockups() {
-  let phoneMockups: string[] = [];
-  let otherMockups: string[] = [];
+  let phoneMockups = [];
+  let otherMockups = [];
 
   // Iterate over each portfolio item
   for (let key in db.portfolioItems) {

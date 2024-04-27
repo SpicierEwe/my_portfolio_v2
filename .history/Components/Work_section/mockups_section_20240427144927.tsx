@@ -9,7 +9,7 @@ export default function MockupsSection() {
   useEffect(() => {
     const { phoneMockups, otherMockups } = _crawlMockups();
 
-    const newData: any[] = [
+    const newData = [
       {
         phone_mockup_links: [...data[0]["phone_mockup_links"], ...phoneMockups],
 
@@ -75,7 +75,7 @@ function _crawlMockups() {
 
   // Iterate over each portfolio item
   for (let key in db.portfolioItems) {
-    const portfolioItem = db.portfolioItems[key];
+    const portfolioItem: any = db.portfolioItems[key];
 
     // Iterate over each item in the portfolio item
     if (Array.isArray(portfolioItem)) {

@@ -9,7 +9,7 @@ export default function MockupsSection() {
   useEffect(() => {
     const { phoneMockups, otherMockups } = _crawlMockups();
 
-    const newData: any[] = [
+    const newData = [
       {
         phone_mockup_links: [...data[0]["phone_mockup_links"], ...phoneMockups],
 

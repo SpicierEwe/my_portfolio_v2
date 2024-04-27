@@ -4,7 +4,7 @@ import { db } from "../../../core/db/db";
 import { getIcon } from "../../../core/utils/utils";
 import Image from "next/image";
 
-export default function Project({ params }: any) {
+export default function Project({ params }) {
   const { id } = params;
 
   const {
