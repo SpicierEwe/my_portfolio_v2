@@ -1,6 +1,6 @@
 import { SectionTitle } from "../../core/widgets/widgets";
-import { db } from "../../core/db/db";
-import { getIcon } from "../../core/utils/utils";
+import { db } from "@/core/db/db";
+import { getIcon } from "@/core/utils/utils";
 
 export default function TechStackSection() {
   const techStackContent = [] as string[] | any[];

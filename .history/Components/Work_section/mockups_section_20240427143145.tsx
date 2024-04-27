@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import Image from "next/image";
-import { db } from "../../core/db/db";
+import { db } from "@/core/db/db";
 import BrowserBarWidget from "../../core/widgets/browser_bar_widget";
 
 export default function MockupsSection() {
