@@ -2,7 +2,7 @@ import NavBar from "../components/Nav_bar/nav_bar";
 import "./globals.css";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
-import DevicePreview from "../components/Device_preview/device_preview";
+import DevicePreview from "@/Components/Device_preview/device_preview";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -26,7 +26,7 @@ export default function RootLayout({
             {children}
 
             {/* sticks on the screen */}
-            {/* <DevicePreview> </DevicePreview> */}
+            <DevicePreview> </DevicePreview>
           </div>
         }
       </body>
