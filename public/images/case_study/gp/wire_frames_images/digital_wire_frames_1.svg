@@ -1,0 +1,1126 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="5740" height="6412" viewBox="0 0 5740 6412">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_17" data-name="Rectangle 17" width="25" height="21" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_19" data-name="Rectangle 19" width="79" height="79" transform="translate(18 21)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectangle_13" data-name="Rectangle 13" width="40" height="40" transform="translate(0 0.404)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <rect id="Rectangle_13-3" data-name="Rectangle 13" width="41" height="40" transform="translate(0 0.404)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-7">
+      <rect id="Rectangle_26" data-name="Rectangle 26" width="20" height="19" transform="translate(-0.2)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-8">
+      <rect id="Rectangle_25" data-name="Rectangle 25" width="52" height="52" transform="translate(0.492)" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-9">
+      <rect id="Rectangle_27" data-name="Rectangle 27" width="11" height="11" transform="translate(-0.258 -0.274)" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-11">
+      <rect id="Rectangle_30" data-name="Rectangle 30" width="43" height="43" transform="translate(0.008)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-18">
+      <rect id="Rectangle_48" data-name="Rectangle 48" width="84" height="84" transform="translate(855 171)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-19">
+      <rect id="Rectangle_49" data-name="Rectangle 49" width="23" height="23" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_282" data-name="Group 282" transform="translate(14186 15576)">
+    <g id="Rectangle_91" data-name="Rectangle 91" transform="translate(-14186 -15576)" fill="#aaa" stroke="#707070" stroke-width="1">
+      <rect width="5740" height="6412" rx="530" stroke="none"/>
+      <rect x="0.5" y="0.5" width="5739" height="6411" rx="529.5" fill="none"/>
+    </g>
+    <g id="Rectangle_93" data-name="Rectangle 93" transform="translate(-12456 -15168)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="1017" height="3806" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1016" height="3805" fill="none"/>
+    </g>
+    <g id="Rectangle_94" data-name="Rectangle 94" transform="translate(-11176 -15172)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="1017" height="3261" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1016" height="3260" fill="none"/>
+    </g>
+    <g id="Rectangle_95" data-name="Rectangle 95" transform="translate(-9896 -15172)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="1017" height="2185" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1016" height="2184" fill="none"/>
+    </g>
+    <g id="Group_277" data-name="Group 277" transform="translate(8792 -764)">
+      <g id="Rectangle_92" data-name="Rectangle 92" transform="translate(-22528 -14408)" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="1017" height="5599" stroke="none"/>
+        <rect x="0.5" y="0.5" width="1016" height="5598" fill="none"/>
+      </g>
+      <g id="Group_272" data-name="Group 272" transform="translate(-22528 -14408)">
+        <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(32 33)" stroke="#707070" stroke-width="1">
+          <rect width="76" height="56" stroke="none"/>
+          <rect x="0.5" y="0.5" width="75" height="55" fill="none"/>
+        </g>
+        <text id="LOGO" transform="translate(44 70)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">LOGO</tspan></text>
+        <g id="Group_48" data-name="Group 48">
+          <g id="Rectangle_1" data-name="Rectangle 1" fill="#e9e3e3" stroke="#707070" stroke-width="1">
+            <rect width="1017" height="121" stroke="none"/>
+            <rect x="0.5" y="0.5" width="1016" height="120" fill="none"/>
+          </g>
+          <g id="Group_3" data-name="Group 3" transform="translate(335.458 29)">
+            <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(-0.458)" stroke="#707070" stroke-width="1">
+              <rect width="418" height="66" rx="33" stroke="none"/>
+              <rect x="0.5" y="0.5" width="417" height="65" rx="32.5" fill="none"/>
+            </g>
+            <g id="Group_1" data-name="Group 1" transform="translate(31.43 16.232)">
+              <g id="Rectangle_4" data-name="Rectangle 4" transform="matrix(0.574, 0.819, -0.819, 0.574, 16.657, 15.369)" fill="#fff" stroke="#707070" stroke-width="1">
+                <rect width="26" height="5" stroke="none"/>
+                <rect x="0.5" y="0.5" width="25" height="4" fill="none"/>
+              </g>
+              <g id="Ellipse_1" data-name="Ellipse 1" fill="#fff" stroke="#707070" stroke-width="1">
+                <circle cx="10.5" cy="10.5" r="10.5" stroke="none"/>
+                <circle cx="10.5" cy="10.5" r="10" fill="none"/>
+              </g>
+            </g>
+          </g>
+          <text id="SHOP" transform="translate(165 71)" font-size="27" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">SHOP</tspan></text>
+          <g id="Group_4" data-name="Group 4" transform="translate(919 25)">
+            <g id="Ellipse_2" data-name="Ellipse 2" stroke="#707070" stroke-width="1">
+              <circle cx="37.5" cy="37.5" r="37.5" stroke="none"/>
+              <circle cx="37.5" cy="37.5" r="37" fill="none"/>
+            </g>
+            <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(24 10)" fill="#fff" stroke="#707070" stroke-width="1">
+              <circle cx="14" cy="14" r="14" stroke="none"/>
+              <circle cx="14" cy="14" r="13.5" fill="none"/>
+            </g>
+          </g>
+          <g id="Group_2" data-name="Group 2" transform="translate(814 38.964)">
+            <path id="Path_1" data-name="Path 1" d="M14.768,38.048A4.256,4.256,0,1,0,19.024,42.3,4.237,4.237,0,0,0,14.768,38.048ZM2,4V8.256H6.256L13.906,24.4,11.033,29.61a4.326,4.326,0,0,0-.521,2.053,4.255,4.255,0,0,0,4.256,4.256H40.3V31.664H15.672a.527.527,0,0,1-.532-.532.505.505,0,0,1,.064-.255l1.9-3.469H32.962a4.27,4.27,0,0,0,3.724-2.192l7.608-13.811a2.057,2.057,0,0,0,.266-1.021,2.127,2.127,0,0,0-2.128-2.128H10.969L8.948,4H2ZM36.048,38.048A4.256,4.256,0,1,0,40.3,42.3,4.237,4.237,0,0,0,36.048,38.048Z" transform="translate(0.128 0.256)"/>
+            <path id="Path_2" data-name="Path 2" d="M0,0H51.071V51.071H0Z" fill="none"/>
+          </g>
+          <g id="_4227fc89fab27a2dd90f17fef882c004" data-name="4227fc89fab27a2dd90f17fef882c004" transform="translate(675 37)">
+            <path id="Path_3" data-name="Path 3" d="M0,0H56V56H0Z" fill="none"/>
+            <path id="Path_2729" data-name="Path 2729" d="M22.478,45.483a3.283,3.283,0,0,1-2.3-.957L4.012,28.363A13.328,13.328,0,1,1,22.507,9.168,13.334,13.334,0,1,1,40.983,28.4l-16.2,16.15A3.267,3.267,0,0,1,22.478,45.483Z" transform="translate(5.508 2.808)"/>
+          </g>
+        </g>
+        <g id="Group_8" data-name="Group 8" transform="translate(0 121)">
+          <g id="Rectangle_5" data-name="Rectangle 5" fill="#d6d6d6" stroke="#707070" stroke-width="1">
+            <rect width="1017" height="513" stroke="none"/>
+            <rect x="0.5" y="0.5" width="1016" height="512" fill="none"/>
+          </g>
+          <g id="Group_7" data-name="Group 7" transform="translate(0 36)">
+            <g id="Rectangle_6" data-name="Rectangle 6" stroke="#707070" stroke-width="1">
+              <rect width="260" height="62" stroke="none"/>
+              <rect x="0.5" y="0.5" width="259" height="61" fill="none"/>
+            </g>
+            <text id="LATEST_RELEASES" data-name="LATEST RELEASES" transform="translate(34 42)" fill="#fff" font-size="23" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">LATEST RELEASES</tspan></text>
+          </g>
+          <g id="Group_5" data-name="Group 5" transform="translate(793 437)">
+            <g id="Rectangle_7" data-name="Rectangle 7" stroke="#707070" stroke-width="1">
+              <rect width="151" height="29" stroke="none"/>
+              <rect x="0.5" y="0.5" width="150" height="28" fill="none"/>
+            </g>
+            <g id="Group_6" data-name="Group 6" transform="translate(8 7)">
+              <g id="Ellipse_4" data-name="Ellipse 4" fill="#fff" stroke="#707070" stroke-width="1">
+                <circle cx="8" cy="8" r="8" stroke="none"/>
+                <circle cx="8" cy="8" r="7.5" fill="none"/>
+              </g>
+              <g id="Ellipse_4-2" data-name="Ellipse 4" transform="translate(24)" fill="#fff" stroke="#707070" stroke-width="1">
+                <circle cx="8" cy="8" r="8" stroke="none"/>
+                <circle cx="8" cy="8" r="7.5" fill="none"/>
+              </g>
+              <g id="Ellipse_4-3" data-name="Ellipse 4" transform="translate(48)" fill="#fff" stroke="#707070" stroke-width="1">
+                <circle cx="8" cy="8" r="8" stroke="none"/>
+                <circle cx="8" cy="8" r="7.5" fill="none"/>
+              </g>
+              <g id="Ellipse_4-4" data-name="Ellipse 4" transform="translate(72)" fill="#fff" stroke="#707070" stroke-width="1">
+                <circle cx="8" cy="8" r="8" stroke="none"/>
+                <circle cx="8" cy="8" r="7.5" fill="none"/>
+              </g>
+              <g id="Ellipse_4-5" data-name="Ellipse 4" transform="translate(95)" fill="#fff" stroke="#707070" stroke-width="1">
+                <circle cx="8" cy="8" r="8" stroke="none"/>
+                <circle cx="8" cy="8" r="7.5" fill="none"/>
+              </g>
+              <g id="Ellipse_4-6" data-name="Ellipse 4" transform="translate(119)" fill="#fff" stroke="#707070" stroke-width="1">
+                <circle cx="8" cy="8" r="8" stroke="none"/>
+                <circle cx="8" cy="8" r="7.5" fill="none"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Group_45" data-name="Group 45" transform="translate(0 1362)">
+          <g id="Rectangle_8" data-name="Rectangle 8" fill="#d6d6d6" stroke="#707070" stroke-width="1">
+            <rect width="1017" height="473" stroke="none"/>
+            <rect x="0.5" y="0.5" width="1016" height="472" fill="none"/>
+          </g>
+          <text id="MOST_POPULAR" data-name="MOST POPULAR" transform="translate(24 63)" fill="#2f2f2f" font-size="30" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">MOST POPULAR</tspan></text>
+          <g id="Group_10" data-name="Group 10" transform="translate(47 139)">
+            <g id="Rectangle_9" data-name="Rectangle 9" fill="#fff" stroke="#707070" stroke-width="1">
+              <rect width="196" height="196" rx="49" stroke="none"/>
+              <rect x="0.5" y="0.5" width="195" height="195" rx="48.5" fill="none"/>
+            </g>
+            <g id="Group_9" data-name="Group 9" transform="translate(229)">
+              <text id="Lorem_ipsum" data-name="Lorem ipsum" transform="translate(0 41)" fill="#2f2f2f" font-size="38" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+              <text id="Lorem_Ipsum-2" data-name="Lorem Ipsum" transform="translate(0 83)" fill="#2f2f2f" font-size="22" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+              <text id="Lorem_Ipsum-3" data-name="Lorem Ipsum" transform="translate(0 121)" fill="#2f2f2f" font-size="22" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+            </g>
+          </g>
+          <g id="Group_11" data-name="Group 11" transform="translate(521.303 139)">
+            <g id="Rectangle_9-2" data-name="Rectangle 9" transform="translate(-0.303)" fill="#fff" stroke="#707070" stroke-width="1">
+              <rect width="196" height="196" rx="49" stroke="none"/>
+              <rect x="0.5" y="0.5" width="195" height="195" rx="48.5" fill="none"/>
+            </g>
+            <g id="Group_9-2" data-name="Group 9" transform="translate(229)">
+              <text id="Lorem_ipsum-4" data-name="Lorem ipsum" transform="translate(-0.303 41)" fill="#2f2f2f" font-size="38" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+              <text id="Lorem_Ipsum-5" data-name="Lorem Ipsum" transform="translate(-0.303 83)" fill="#2f2f2f" font-size="22" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+              <text id="Lorem_Ipsum-6" data-name="Lorem Ipsum" transform="translate(-0.303 121)" fill="#2f2f2f" font-size="22" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+            </g>
+          </g>
+        </g>
+        <g id="Group_47" data-name="Group 47" transform="translate(0 3053)">
+          <g id="Group_38" data-name="Group 38" transform="translate(0)">
+            <g id="Rectangle_10" data-name="Rectangle 10" fill="#d6d6d6" stroke="#707070" stroke-width="1">
+              <rect width="1017" height="1901" stroke="none"/>
+              <rect x="0.5" y="0.5" width="1016" height="1900" fill="none"/>
+            </g>
+          </g>
+          <text id="EXPLORE" transform="translate(47 79)" fill="#2f2f2f" font-size="30" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">EXPLORE</tspan></text>
+          <g id="Group_49" data-name="Group 49" transform="translate(41 216)">
+            <g id="Group_41" data-name="Group 41">
+              <g id="Group_23" data-name="Group 23">
+                <g id="Rectangle_11" data-name="Rectangle 11" fill="#fff" stroke="#707070" stroke-width="1">
+                  <path d="M0,0H281a0,0,0,0,1,0,0V460a24,24,0,0,1-24,24H24A24,24,0,0,1,0,460V0A0,0,0,0,1,0,0Z" stroke="none"/>
+                  <path d="M.5.5h280a0,0,0,0,1,0,0V460A23.5,23.5,0,0,1,257,483.5H24A23.5,23.5,0,0,1,.5,460V.5A0,0,0,0,1,.5.5Z" fill="none"/>
+                </g>
+                <g id="Group_21" data-name="Group 21" transform="translate(0.437 68.472)">
+                  <g id="Group_20" data-name="Group 20">
+                    <g id="Group_19" data-name="Group 19" transform="translate(35.563 255.528)">
+                      <text id="Lorem_ipsum-7" data-name="Lorem ipsum" transform="translate(0 36)" fill="#2f2f2f" font-size="33" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+                      <text id="Lorem_Ipsum-8" data-name="Lorem Ipsum" transform="translate(0 72)" fill="#2f2f2f" font-size="19" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+                      <text id="Lorem_Ipsum-9" data-name="Lorem Ipsum" transform="translate(0 106)" fill="#2f2f2f" font-size="19" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+                    </g>
+                    <line id="Line_1" data-name="Line 1" x2="276.789" y2="199.952" fill="none" stroke="#707070" stroke-width="1"/>
+                  </g>
+                  <line id="Line_2" data-name="Line 2" x1="280.282" y2="203.444" fill="none" stroke="#707070" stroke-width="1"/>
+                  <line id="Line_3" data-name="Line 3" x2="281.155" transform="translate(0 204.256)" fill="none" stroke="#707070" stroke-width="1"/>
+                  <line id="Line_4" data-name="Line 4" x2="280.282" fill="none" stroke="#707070" stroke-width="1"/>
+                </g>
+              </g>
+              <text id="PS5" transform="translate(203 45)" fill="#2f2f2f" font-size="27" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">PS5</tspan></text>
+            </g>
+            <g id="Group_41-2" data-name="Group 41" transform="translate(327)">
+              <g id="Group_23-2" data-name="Group 23">
+                <g id="Rectangle_11-2" data-name="Rectangle 11" fill="#fff" stroke="#707070" stroke-width="1">
+                  <path d="M0,0H281a0,0,0,0,1,0,0V460a24,24,0,0,1-24,24H24A24,24,0,0,1,0,460V0A0,0,0,0,1,0,0Z" stroke="none"/>
+                  <path d="M.5.5h280a0,0,0,0,1,0,0V460A23.5,23.5,0,0,1,257,483.5H24A23.5,23.5,0,0,1,.5,460V.5A0,0,0,0,1,.5.5Z" fill="none"/>
+                </g>
+                <g id="Group_21-2" data-name="Group 21" transform="translate(0.437 68.472)">
+                  <g id="Group_20-2" data-name="Group 20">
+                    <g id="Group_19-2" data-name="Group 19" transform="translate(35.563 255.528)">
+                      <text id="Lorem_ipsum-10" data-name="Lorem ipsum" transform="translate(0 36)" fill="#2f2f2f" font-size="33" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+                      <text id="Lorem_Ipsum-11" data-name="Lorem Ipsum" transform="translate(0 72)" fill="#2f2f2f" font-size="19" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+                      <text id="Lorem_Ipsum-12" data-name="Lorem Ipsum" transform="translate(0 106)" fill="#2f2f2f" font-size="19" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+                    </g>
+                    <line id="Line_1-2" data-name="Line 1" x2="276.789" y2="199.952" fill="none" stroke="#707070" stroke-width="1"/>
+                  </g>
+                  <line id="Line_2-2" data-name="Line 2" x1="280.282" y2="203.444" fill="none" stroke="#707070" stroke-width="1"/>
+                  <line id="Line_3-2" data-name="Line 3" x2="281.155" transform="translate(0 204.256)" fill="none" stroke="#707070" stroke-width="1"/>
+                  <line id="Line_4-2" data-name="Line 4" x2="280.282" fill="none" stroke="#707070" stroke-width="1"/>
+                </g>
+              </g>
+              <text id="PS5-2" data-name="PS5" transform="translate(203 45)" fill="#2f2f2f" font-size="27" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">PS5</tspan></text>
+            </g>
+            <g id="Group_41-3" data-name="Group 41" transform="translate(654)">
+              <g id="Group_23-3" data-name="Group 23">
+                <g id="Rectangle_11-3" data-name="Rectangle 11" fill="#fff" stroke="#707070" stroke-width="1">
+                  <path d="M0,0H281a0,0,0,0,1,0,0V460a24,24,0,0,1-24,24H24A24,24,0,0,1,0,460V0A0,0,0,0,1,0,0Z" stroke="none"/>
+                  <path d="M.5.5h280a0,0,0,0,1,0,0V460A23.5,23.5,0,0,1,257,483.5H24A23.5,23.5,0,0,1,.5,460V.5A0,0,0,0,1,.5.5Z" fill="none"/>
+                </g>
+                <g id="Group_21-3" data-name="Group 21" transform="translate(0.437 68.472)">
+                  <g id="Group_20-3" data-name="Group 20">
+                    <g id="Group_19-3" data-name="Group 19" transform="translate(35.563 255.528)">
+                      <text id="Lorem_ipsum-13" data-name="Lorem ipsum" transform="translate(0 36)" fill="#2f2f2f" font-size="33" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+                      <text id="Lorem_Ipsum-14" data-name="Lorem Ipsum" transform="translate(0 72)" fill="#2f2f2f" font-size="19" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+                      <text id="Lorem_Ipsum-15" data-name="Lorem Ipsum" transform="translate(0 106)" fill="#2f2f2f" font-size="19" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+                    </g>
+                    <line id="Line_1-3" data-name="Line 1" x2="276.789" y2="199.952" fill="none" stroke="#707070" stroke-width="1"/>
+                  </g>
+                  <line id="Line_2-3" data-name="Line 2" x1="280.282" y2="203.444" fill="none" stroke="#707070" stroke-width="1"/>
+                  <line id="Line_3-3" data-name="Line 3" x2="281.155" transform="translate(0 204.256)" fill="none" stroke="#707070" stroke-width="1"/>
+                  <line id="Line_4-3" data-name="Line 4" x2="280.282" fill="none" stroke="#707070" stroke-width="1"/>
+                </g>
+              </g>
+              <text id="PS5-3" data-name="PS5" transform="translate(203 45)" fill="#2f2f2f" font-size="27" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">PS5</tspan></text>
+            </g>
+            <g id="Group_41-4" data-name="Group 41" transform="translate(0 527)">
+              <g id="Group_23-4" data-name="Group 23">
+                <g id="Rectangle_11-4" data-name="Rectangle 11" fill="#fff" stroke="#707070" stroke-width="1">
+                  <path d="M0,0H281a0,0,0,0,1,0,0V460a24,24,0,0,1-24,24H24A24,24,0,0,1,0,460V0A0,0,0,0,1,0,0Z" stroke="none"/>
+                  <path d="M.5.5h280a0,0,0,0,1,0,0V460A23.5,23.5,0,0,1,257,483.5H24A23.5,23.5,0,0,1,.5,460V.5A0,0,0,0,1,.5.5Z" fill="none"/>
+                </g>
+                <g id="Group_21-4" data-name="Group 21" transform="translate(0.437 68.472)">
+                  <g id="Group_20-4" data-name="Group 20">
+                    <g id="Group_19-4" data-name="Group 19" transform="translate(35.563 255.528)">
+                      <text id="Lorem_ipsum-16" data-name="Lorem ipsum" transform="translate(0 36)" fill="#2f2f2f" font-size="33" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+                      <text id="Lorem_Ipsum-17" data-name="Lorem Ipsum" transform="translate(0 72)" fill="#2f2f2f" font-size="19" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+                      <text id="Lorem_Ipsum-18" data-name="Lorem Ipsum" transform="translate(0 106)" fill="#2f2f2f" font-size="19" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+                    </g>
+                    <line id="Line_1-4" data-name="Line 1" x2="276.789" y2="199.952" fill="none" stroke="#707070" stroke-width="1"/>
+                  </g>
+                  <line id="Line_2-4" data-name="Line 2" x1="280.282" y2="203.444" fill="none" stroke="#707070" stroke-width="1"/>
+                  <line id="Line_3-4" data-name="Line 3" x2="281.155" transform="translate(0 204.256)" fill="none" stroke="#707070" stroke-width="1"/>
+                  <line id="Line_4-4" data-name="Line 4" x2="280.282" fill="none" stroke="#707070" stroke-width="1"/>
+                </g>
+              </g>
+              <text id="PS5-4" data-name="PS5" transform="translate(203 45)" fill="#2f2f2f" font-size="27" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">PS5</tspan></text>
+            </g>
+            <g id="Group_41-5" data-name="Group 41" transform="translate(327 527)">
+              <g id="Group_23-5" data-name="Group 23">
+                <g id="Rectangle_11-5" data-name="Rectangle 11" fill="#fff" stroke="#707070" stroke-width="1">
+                  <path d="M0,0H281a0,0,0,0,1,0,0V460a24,24,0,0,1-24,24H24A24,24,0,0,1,0,460V0A0,0,0,0,1,0,0Z" stroke="none"/>
+                  <path d="M.5.5h280a0,0,0,0,1,0,0V460A23.5,23.5,0,0,1,257,483.5H24A23.5,23.5,0,0,1,.5,460V.5A0,0,0,0,1,.5.5Z" fill="none"/>
+                </g>
+                <g id="Group_21-5" data-name="Group 21" transform="translate(0.437 68.472)">
+                  <g id="Group_20-5" data-name="Group 20">
+                    <g id="Group_19-5" data-name="Group 19" transform="translate(35.563 255.528)">
+                      <text id="Lorem_ipsum-19" data-name="Lorem ipsum" transform="translate(0 36)" fill="#2f2f2f" font-size="33" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+                      <text id="Lorem_Ipsum-20" data-name="Lorem Ipsum" transform="translate(0 72)" fill="#2f2f2f" font-size="19" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+                      <text id="Lorem_Ipsum-21" data-name="Lorem Ipsum" transform="translate(0 106)" fill="#2f2f2f" font-size="19" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+                    </g>
+                    <line id="Line_1-5" data-name="Line 1" x2="276.789" y2="199.952" fill="none" stroke="#707070" stroke-width="1"/>
+                  </g>
+                  <line id="Line_2-5" data-name="Line 2" x1="280.282" y2="203.444" fill="none" stroke="#707070" stroke-width="1"/>
+                  <line id="Line_3-5" data-name="Line 3" x2="281.155" transform="translate(0 204.256)" fill="none" stroke="#707070" stroke-width="1"/>
+                  <line id="Line_4-5" data-name="Line 4" x2="280.282" fill="none" stroke="#707070" stroke-width="1"/>
+                </g>
+              </g>
+              <text id="PS5-5" data-name="PS5" transform="translate(203 45)" fill="#2f2f2f" font-size="27" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">PS5</tspan></text>
+            </g>
+            <g id="Group_41-6" data-name="Group 41" transform="translate(654 527)">
+              <g id="Group_23-6" data-name="Group 23">
+                <g id="Rectangle_11-6" data-name="Rectangle 11" fill="#fff" stroke="#707070" stroke-width="1">
+                  <path d="M0,0H281a0,0,0,0,1,0,0V460a24,24,0,0,1-24,24H24A24,24,0,0,1,0,460V0A0,0,0,0,1,0,0Z" stroke="none"/>
+                  <path d="M.5.5h280a0,0,0,0,1,0,0V460A23.5,23.5,0,0,1,257,483.5H24A23.5,23.5,0,0,1,.5,460V.5A0,0,0,0,1,.5.5Z" fill="none"/>
+                </g>
+                <g id="Group_21-6" data-name="Group 21" transform="translate(0.437 68.472)">
+                  <g id="Group_20-6" data-name="Group 20">
+                    <g id="Group_19-6" data-name="Group 19" transform="translate(35.563 255.528)">
+                      <text id="Lorem_ipsum-22" data-name="Lorem ipsum" transform="translate(0 36)" fill="#2f2f2f" font-size="33" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+                      <text id="Lorem_Ipsum-23" data-name="Lorem Ipsum" transform="translate(0 72)" fill="#2f2f2f" font-size="19" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+                      <text id="Lorem_Ipsum-24" data-name="Lorem Ipsum" transform="translate(0 106)" fill="#2f2f2f" font-size="19" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+                    </g>
+                    <line id="Line_1-6" data-name="Line 1" x2="276.789" y2="199.952" fill="none" stroke="#707070" stroke-width="1"/>
+                  </g>
+                  <line id="Line_2-6" data-name="Line 2" x1="280.282" y2="203.444" fill="none" stroke="#707070" stroke-width="1"/>
+                  <line id="Line_3-6" data-name="Line 3" x2="281.155" transform="translate(0 204.256)" fill="none" stroke="#707070" stroke-width="1"/>
+                  <line id="Line_4-6" data-name="Line 4" x2="280.282" fill="none" stroke="#707070" stroke-width="1"/>
+                </g>
+              </g>
+              <text id="PS5-6" data-name="PS5" transform="translate(203 45)" fill="#2f2f2f" font-size="27" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">PS5</tspan></text>
+            </g>
+            <g id="Group_41-7" data-name="Group 41" transform="translate(0 1054)">
+              <g id="Group_23-7" data-name="Group 23">
+                <g id="Rectangle_11-7" data-name="Rectangle 11" fill="#fff" stroke="#707070" stroke-width="1">
+                  <path d="M0,0H281a0,0,0,0,1,0,0V460a24,24,0,0,1-24,24H24A24,24,0,0,1,0,460V0A0,0,0,0,1,0,0Z" stroke="none"/>
+                  <path d="M.5.5h280a0,0,0,0,1,0,0V460A23.5,23.5,0,0,1,257,483.5H24A23.5,23.5,0,0,1,.5,460V.5A0,0,0,0,1,.5.5Z" fill="none"/>
+                </g>
+                <g id="Group_21-7" data-name="Group 21" transform="translate(0.437 68.472)">
+                  <g id="Group_20-7" data-name="Group 20">
+                    <g id="Group_19-7" data-name="Group 19" transform="translate(35.563 255.528)">
+                      <text id="Lorem_ipsum-25" data-name="Lorem ipsum" transform="translate(0 36)" fill="#2f2f2f" font-size="33" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+                      <text id="Lorem_Ipsum-26" data-name="Lorem Ipsum" transform="translate(0 72)" fill="#2f2f2f" font-size="19" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+                      <text id="Lorem_Ipsum-27" data-name="Lorem Ipsum" transform="translate(0 106)" fill="#2f2f2f" font-size="19" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+                    </g>
+                    <line id="Line_1-7" data-name="Line 1" x2="276.789" y2="199.952" fill="none" stroke="#707070" stroke-width="1"/>
+                  </g>
+                  <line id="Line_2-7" data-name="Line 2" x1="280.282" y2="203.444" fill="none" stroke="#707070" stroke-width="1"/>
+                  <line id="Line_3-7" data-name="Line 3" x2="281.155" transform="translate(0 204.256)" fill="none" stroke="#707070" stroke-width="1"/>
+                  <line id="Line_4-7" data-name="Line 4" x2="280.282" fill="none" stroke="#707070" stroke-width="1"/>
+                </g>
+              </g>
+              <text id="PS5-7" data-name="PS5" transform="translate(203 45)" fill="#2f2f2f" font-size="27" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">PS5</tspan></text>
+            </g>
+            <g id="Group_41-8" data-name="Group 41" transform="translate(327 1054)">
+              <g id="Group_23-8" data-name="Group 23">
+                <g id="Rectangle_11-8" data-name="Rectangle 11" fill="#fff" stroke="#707070" stroke-width="1">
+                  <path d="M0,0H281a0,0,0,0,1,0,0V460a24,24,0,0,1-24,24H24A24,24,0,0,1,0,460V0A0,0,0,0,1,0,0Z" stroke="none"/>
+                  <path d="M.5.5h280a0,0,0,0,1,0,0V460A23.5,23.5,0,0,1,257,483.5H24A23.5,23.5,0,0,1,.5,460V.5A0,0,0,0,1,.5.5Z" fill="none"/>
+                </g>
+                <g id="Group_21-8" data-name="Group 21" transform="translate(0.437 68.472)">
+                  <g id="Group_20-8" data-name="Group 20">
+                    <g id="Group_19-8" data-name="Group 19" transform="translate(35.563 255.528)">
+                      <text id="Lorem_ipsum-28" data-name="Lorem ipsum" transform="translate(0 36)" fill="#2f2f2f" font-size="33" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+                      <text id="Lorem_Ipsum-29" data-name="Lorem Ipsum" transform="translate(0 72)" fill="#2f2f2f" font-size="19" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+                      <text id="Lorem_Ipsum-30" data-name="Lorem Ipsum" transform="translate(0 106)" fill="#2f2f2f" font-size="19" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+                    </g>
+                    <line id="Line_1-8" data-name="Line 1" x2="276.789" y2="199.952" fill="none" stroke="#707070" stroke-width="1"/>
+                  </g>
+                  <line id="Line_2-8" data-name="Line 2" x1="280.282" y2="203.444" fill="none" stroke="#707070" stroke-width="1"/>
+                  <line id="Line_3-8" data-name="Line 3" x2="281.155" transform="translate(0 204.256)" fill="none" stroke="#707070" stroke-width="1"/>
+                  <line id="Line_4-8" data-name="Line 4" x2="280.282" fill="none" stroke="#707070" stroke-width="1"/>
+                </g>
+              </g>
+              <text id="PS5-8" data-name="PS5" transform="translate(203 45)" fill="#2f2f2f" font-size="27" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">PS5</tspan></text>
+            </g>
+            <g id="Group_41-9" data-name="Group 41" transform="translate(654 1054)">
+              <g id="Group_23-9" data-name="Group 23">
+                <g id="Rectangle_11-9" data-name="Rectangle 11" fill="#fff" stroke="#707070" stroke-width="1">
+                  <path d="M0,0H281a0,0,0,0,1,0,0V460a24,24,0,0,1-24,24H24A24,24,0,0,1,0,460V0A0,0,0,0,1,0,0Z" stroke="none"/>
+                  <path d="M.5.5h280a0,0,0,0,1,0,0V460A23.5,23.5,0,0,1,257,483.5H24A23.5,23.5,0,0,1,.5,460V.5A0,0,0,0,1,.5.5Z" fill="none"/>
+                </g>
+                <g id="Group_21-9" data-name="Group 21" transform="translate(0.437 68.472)">
+                  <g id="Group_20-9" data-name="Group 20">
+                    <g id="Group_19-9" data-name="Group 19" transform="translate(35.563 255.528)">
+                      <text id="Lorem_ipsum-31" data-name="Lorem ipsum" transform="translate(0 36)" fill="#2f2f2f" font-size="33" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+                      <text id="Lorem_Ipsum-32" data-name="Lorem Ipsum" transform="translate(0 72)" fill="#2f2f2f" font-size="19" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+                      <text id="Lorem_Ipsum-33" data-name="Lorem Ipsum" transform="translate(0 106)" fill="#2f2f2f" font-size="19" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+                    </g>
+                    <line id="Line_1-9" data-name="Line 1" x2="276.789" y2="199.952" fill="none" stroke="#707070" stroke-width="1"/>
+                  </g>
+                  <line id="Line_2-9" data-name="Line 2" x1="280.282" y2="203.444" fill="none" stroke="#707070" stroke-width="1"/>
+                  <line id="Line_3-9" data-name="Line 3" x2="281.155" transform="translate(0 204.256)" fill="none" stroke="#707070" stroke-width="1"/>
+                  <line id="Line_4-9" data-name="Line 4" x2="280.282" fill="none" stroke="#707070" stroke-width="1"/>
+                </g>
+              </g>
+              <text id="PS5-9" data-name="PS5" transform="translate(203 45)" fill="#2f2f2f" font-size="27" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">PS5</tspan></text>
+            </g>
+          </g>
+          <g id="Group_51" data-name="Group 51" transform="translate(63)">
+            <g id="Rectangle_16" data-name="Rectangle 16" transform="translate(157 43)" fill="#fff" stroke="#707070" stroke-width="1">
+              <rect width="191" height="48" stroke="none"/>
+              <rect x="0.5" y="0.5" width="190" height="47" fill="none"/>
+            </g>
+            <text id="PS5-10" data-name="PS5" transform="translate(195 79)" fill="#2f2f2f" font-size="30" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">PS5</tspan></text>
+            <g id="Mask_Group_5" data-name="Mask Group 5" transform="translate(301 57)" clip-path="url(#clip-path)">
+              <path id="_05d672bf2ec15f434a544f7a2214100f" data-name="05d672bf2ec15f434a544f7a2214100f" d="M39.73,26.368,29.61,36.488,19.49,26.368" transform="translate(-16.823 -20.413)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.59"/>
+            </g>
+          </g>
+        </g>
+        <g id="Mask_Group_7" data-name="Mask Group 7" clip-path="url(#clip-path-2)">
+          <g id="Layer_2" data-name="Layer 2" transform="translate(18 21)">
+            <g id="menu-2">
+              <rect id="Rectangle_20" data-name="Rectangle 20" width="79" height="79" transform="translate(79 79) rotate(180)" opacity="0"/>
+              <circle id="Ellipse_5" data-name="Ellipse 5" cx="3.292" cy="3.292" r="3.292" transform="translate(9.875 36.208)"/>
+              <rect id="Rectangle_21" data-name="Rectangle 21" width="46.083" height="6.583" rx="3.094" transform="translate(23.042 36.208)"/>
+              <rect id="Rectangle_22" data-name="Rectangle 22" width="59.25" height="6.583" rx="3.094" transform="translate(9.875 52.667)"/>
+              <rect id="Rectangle_23" data-name="Rectangle 23" width="59.25" height="6.583" rx="3.094" transform="translate(9.875 19.75)"/>
+            </g>
+          </g>
+        </g>
+        <rect id="Rectangle_37" data-name="Rectangle 37" width="889" height="351" transform="translate(64 704)" fill="#adadad"/>
+        <g id="Rectangle_8-2" data-name="Rectangle 8" transform="translate(64 1055)" fill="#d6d6d6" stroke="#707070" stroke-width="1">
+          <rect width="889" height="221" stroke="none"/>
+          <rect x="0.5" y="0.5" width="888" height="220" fill="none"/>
+        </g>
+        <text id="Lorem_Ipsum-34" data-name="Lorem Ipsum" transform="translate(356 1185)" font-size="46" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+        <line id="Line_6" data-name="Line 6" x2="508.5" y2="274.314" transform="translate(263.5 745.687)" fill="none" stroke="#fff" stroke-width="1"/>
+        <line id="Line_7" data-name="Line 7" x1="508.5" y2="281" transform="translate(263.5 739)" fill="none" stroke="#fff" stroke-width="1"/>
+        <g id="Rectangle_42" data-name="Rectangle 42" transform="translate(64 1055)" fill="#fff" stroke="#707070" stroke-width="1">
+          <rect width="183" height="66" stroke="none"/>
+          <rect x="0.5" y="0.5" width="182" height="65" fill="none"/>
+        </g>
+        <text id="FEATURED" transform="translate(85 1100)" fill="#2f2f2f" font-size="30" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">FEATURED</tspan></text>
+        <g id="Group_94" data-name="Group 94" transform="translate(0 -47)">
+          <g id="Rectangle_8-3" data-name="Rectangle 8" transform="translate(0 1949)" fill="#d6d6d6" stroke="#707070" stroke-width="1">
+            <rect width="1017" height="1084" stroke="none"/>
+            <rect x="0.5" y="0.5" width="1016" height="1083" fill="none"/>
+          </g>
+          <g id="Group_93" data-name="Group 93" transform="translate(-1232 -373)">
+            <text id="_Games_Must_to_Have_in_Collection_" data-name="&quot;Games Must to Have
+in Collection&quot;" transform="translate(1522 2442)" fill="#2f2f2f" font-size="45" font-family="SegoeUI-SemiboldItalic, Segoe UI" font-weight="600" font-style="italic"><tspan x="0" y="0">&quot;Games Must to Have</tspan><tspan x="0" y="60">in Collection&quot;</tspan></text>
+            <text id="Highly_Recomended" data-name="Highly Recomended" transform="translate(1659 2575)" fill="#2f2f2f" font-size="34" font-family="SegoeUI-Italic, Segoe UI" font-style="italic"><tspan x="0" y="0">Highly Recomended</tspan></text>
+          </g>
+          <g id="Group_92" data-name="Group 92" transform="translate(17 115)">
+            <g id="Rectangle_38" data-name="Rectangle 38" transform="translate(58 2219)" fill="#fff" stroke="#707070" stroke-width="1">
+              <rect width="276" height="593" rx="27" stroke="none"/>
+              <rect x="0.5" y="0.5" width="275" height="592" rx="26.5" fill="none"/>
+            </g>
+            <g id="Path_6" data-name="Path 6" transform="translate(354 2219)" fill="#fff">
+              <path d="M 249 592.5 L 27 592.5 C 23.42230796813965 592.5 19.95192337036133 591.7993774414062 16.68515396118164 590.4176635742188 C 13.52961540222168 589.0830078125 10.69553852081299 587.1722412109375 8.261692047119141 584.73828125 C 5.82776927947998 582.304443359375 3.91700005531311 579.4703979492188 2.582307577133179 576.3148193359375 C 1.200615406036377 573.048095703125 0.5 569.5776977539062 0.5 566 L 0.5 27 C 0.5 23.42230796813965 1.200615406036377 19.95192337036133 2.582307577133179 16.68515396118164 C 3.91700005531311 13.52961540222168 5.82776927947998 10.69553852081299 8.261692047119141 8.261692047119141 C 10.69553852081299 5.82776927947998 13.52961540222168 3.91700005531311 16.68515396118164 2.582307577133179 C 19.95192337036133 1.200615406036377 23.42230796813965 0.5 27 0.5 L 249 0.5 C 252.5776977539062 0.5 256.0480651855469 1.200615406036377 259.3148498535156 2.582307577133179 C 262.4703979492188 3.91700005531311 265.3044738769531 5.82776927947998 267.7383117675781 8.261692047119141 C 270.1722412109375 10.69553852081299 272.0830078125 13.52961540222168 273.4176940917969 16.68515396118164 C 274.7993774414062 19.95192337036133 275.5 23.42230796813965 275.5 27 L 275.5 566 C 275.5 569.5776977539062 274.7993774414062 573.048095703125 273.4176940917969 576.3148193359375 C 272.0830078125 579.4703979492188 270.1722412109375 582.304443359375 267.7383117675781 584.73828125 C 265.3044738769531 587.1722412109375 262.4703979492188 589.0830078125 259.3148498535156 590.4176635742188 C 256.0480651855469 591.7993774414062 252.5776977539062 592.5 249 592.5 Z" stroke="none"/>
+              <path d="M 27 1 C 23.48960876464844 1 20.08468627929688 1.68731689453125 16.87991333007812 3.04278564453125 C 13.78399658203125 4.352294921875 11.0032958984375 6.22705078125 8.615234375 8.615234375 C 6.227081298828125 11.0032958984375 4.352294921875 13.78399658203125 3.042755126953125 16.87994384765625 C 1.68731689453125 20.084716796875 1 23.4896240234375 1 27 L 1 566 C 1 569.5103759765625 1.68731689453125 572.915283203125 3.042755126953125 576.1200561523438 C 4.352294921875 579.2160034179688 6.227081298828125 581.9967041015625 8.615234375 584.384765625 C 11.0032958984375 586.77294921875 13.78399658203125 588.647705078125 16.87991333007812 589.9572143554688 C 20.08468627929688 591.3126831054688 23.48960876464844 592 27 592 L 249 592 C 252.5103912353516 592 255.9153137207031 591.3126831054688 259.1200866699219 589.9572143554688 C 262.2160034179688 588.647705078125 264.9967041015625 586.77294921875 267.384765625 584.384765625 C 269.7729187011719 581.9967041015625 271.647705078125 579.2160034179688 272.9572448730469 576.1200561523438 C 274.3126831054688 572.915283203125 275 569.5103759765625 275 566 L 275 27 C 275 23.4896240234375 274.3126831054688 20.084716796875 272.9572448730469 16.87994384765625 C 271.647705078125 13.78399658203125 269.7729187011719 11.0032958984375 267.384765625 8.615234375 C 264.9967041015625 6.22705078125 262.2160034179688 4.352294921875 259.1200866699219 3.04278564453125 C 255.9153137207031 1.68731689453125 252.5103912353516 1 249 1 L 27 1 M 27 0 L 249 0 C 263.9116821289062 0 276 12.08831787109375 276 27 L 276 566 C 276 580.9116821289062 263.9116821289062 593 249 593 L 27 593 C 12.08831787109375 593 0 580.9116821289062 0 566 L 0 27 C 0 12.08831787109375 12.08831787109375 0 27 0 Z" stroke="none" fill="#707070"/>
+            </g>
+            <g id="Rectangle_38-2" data-name="Rectangle 38" transform="translate(650 2219)" fill="#fff" stroke="#707070" stroke-width="1">
+              <rect width="276" height="593" rx="27" stroke="none"/>
+              <rect x="0.5" y="0.5" width="275" height="592" rx="26.5" fill="none"/>
+            </g>
+            <g id="Rectangle_39" data-name="Rectangle 39" transform="translate(86 2254)" fill="#fff" stroke="#707070" stroke-width="1">
+              <path d="M34,0H191a30,30,0,0,1,30,30V205a24,24,0,0,1-24,24H24A24,24,0,0,1,0,205V34A34,34,0,0,1,34,0Z" stroke="none"/>
+              <path d="M34,.5H191A29.5,29.5,0,0,1,220.5,30V205A23.5,23.5,0,0,1,197,228.5H24A23.5,23.5,0,0,1,.5,205V34A33.5,33.5,0,0,1,34,.5Z" fill="none"/>
+            </g>
+            <g id="Rectangle_40" data-name="Rectangle 40" transform="translate(382 2254)" fill="#fff" stroke="#707070" stroke-width="1">
+              <path d="M34,0H191a30,30,0,0,1,30,30V205a24,24,0,0,1-24,24H24A24,24,0,0,1,0,205V34A34,34,0,0,1,34,0Z" stroke="none"/>
+              <path d="M34,.5H191A29.5,29.5,0,0,1,220.5,30V205A23.5,23.5,0,0,1,197,228.5H24A23.5,23.5,0,0,1,.5,205V34A33.5,33.5,0,0,1,34,.5Z" fill="none"/>
+            </g>
+            <g id="Rectangle_41" data-name="Rectangle 41" transform="translate(678 2254)" fill="#fff" stroke="#707070" stroke-width="1">
+              <path d="M34,0H191a30,30,0,0,1,30,30V205a24,24,0,0,1-24,24H24A24,24,0,0,1,0,205V34A34,34,0,0,1,34,0Z" stroke="none"/>
+              <path d="M34,.5H191A29.5,29.5,0,0,1,220.5,30V205A23.5,23.5,0,0,1,197,228.5H24A23.5,23.5,0,0,1,.5,205V34A33.5,33.5,0,0,1,34,.5Z" fill="none"/>
+            </g>
+            <text id="Lorem_Ipsum-35" data-name="Lorem Ipsum" transform="translate(101 2595)" fill="#2f2f2f" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+            <text id="Lorem_Ipsum-36" data-name="Lorem Ipsum" transform="translate(382 2595)" fill="#2f2f2f" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+            <text id="Lorem_Ipsum-37" data-name="Lorem Ipsum" transform="translate(678 2585)" fill="#2f2f2f" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+            <text id="Lorem_Ipsum-38" data-name="Lorem Ipsum" transform="translate(101 2624)" fill="#2f2f2f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+            <text id="Lorem_Ipsum-39" data-name="Lorem Ipsum" transform="translate(382 2624)" fill="#2f2f2f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+            <text id="Lorem_Ipsum-40" data-name="Lorem Ipsum" transform="translate(678 2614)" fill="#2f2f2f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+            <text id="_" data-name="$ $$$" transform="translate(101 2763)" fill="#2f2f2f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">$ $$$</tspan></text>
+            <text id="_2" data-name="$ $$$" transform="translate(382 2763)" fill="#2f2f2f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">$ $$$</tspan></text>
+            <text id="_3" data-name="$ $$$" transform="translate(678 2753)" fill="#2f2f2f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">$ $$$</tspan></text>
+          </g>
+        </g>
+        <g id="Group_46" data-name="Group 46" transform="translate(0 4953)">
+          <g id="Path_4" data-name="Path 4" transform="translate(0)" fill="#c2c2c2">
+            <path d="M 1016.5 649.5 L 712.016357421875 649.5 L 0.5 649.5 L 0.5 0.5 L 1016.5 0.5 L 1016.5 649.5 Z" stroke="none"/>
+            <path d="M 1 1 L 1 649 L 1016 649 L 1016 1 L 1 1 M 0 0 L 1017 0 L 1017 650 L 0 650 L 0 0 Z" stroke="none" fill="#707070"/>
+          </g>
+          <text id="Lorem_ipsum-41" data-name="Lorem ipsum" transform="translate(76 122)" fill="#2f2f2f" font-size="46" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+          <g id="Group_39" data-name="Group 39" transform="translate(297 590)">
+            <text id="Lorem_ipsum-42" data-name="Lorem ipsum" transform="translate(0 23)" fill="#2f2f2f" font-size="21" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+            <text id="Lorem_ipsum-43" data-name="Lorem ipsum" transform="translate(150 23)" fill="#2f2f2f" font-size="21" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+            <text id="Lorem_ipsum-44" data-name="Lorem ipsum" transform="translate(300 23)" fill="#2f2f2f" font-size="21" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+          </g>
+          <g id="Group_44" data-name="Group 44" transform="translate(529 229.492)">
+            <g id="Group_43" data-name="Group 43" transform="translate(0 -0.492)">
+              <text id="Lorem_ipsum-45" data-name="Lorem ipsum" transform="translate(0 18)" fill="#2f2f2f" font-size="17" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+              <text id="Lorem_ipsum-46" data-name="Lorem ipsum" transform="translate(139 18)" fill="#2f2f2f" font-size="17" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+              <text id="Lorem_ipsum-47" data-name="Lorem ipsum" transform="translate(278 18)" fill="#2f2f2f" font-size="17" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+            </g>
+            <g id="Group_43-2" data-name="Group 43" transform="translate(0 39.893)">
+              <text id="Lorem_ipsum-48" data-name="Lorem ipsum" transform="translate(0 17.615)" fill="#2f2f2f" font-size="17" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+              <text id="Lorem_ipsum-49" data-name="Lorem ipsum" transform="translate(139 17.615)" fill="#2f2f2f" font-size="17" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+              <text id="Lorem_ipsum-50" data-name="Lorem ipsum" transform="translate(278 17.615)" fill="#2f2f2f" font-size="17" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+            </g>
+            <g id="Group_43-3" data-name="Group 43" transform="translate(0 81.401)">
+              <text id="Lorem_ipsum-51" data-name="Lorem ipsum" transform="translate(0 18.108)" fill="#2f2f2f" font-size="17" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+              <text id="Lorem_ipsum-52" data-name="Lorem ipsum" transform="translate(139 18.108)" fill="#2f2f2f" font-size="17" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+              <text id="Lorem_ipsum-53" data-name="Lorem ipsum" transform="translate(278 18.108)" fill="#2f2f2f" font-size="17" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+            </g>
+            <g id="Group_43-4" data-name="Group 43" transform="translate(0 121.786)">
+              <text id="Lorem_ipsum-54" data-name="Lorem ipsum" transform="translate(0 17.722)" fill="#2f2f2f" font-size="17" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+              <text id="Lorem_ipsum-55" data-name="Lorem ipsum" transform="translate(139 17.722)" fill="#2f2f2f" font-size="17" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+              <text id="Lorem_ipsum-56" data-name="Lorem ipsum" transform="translate(278 17.722)" fill="#2f2f2f" font-size="17" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+            </g>
+          </g>
+          <g id="Group_40" data-name="Group 40" transform="translate(138 261.596)">
+            <g id="Mask_Group_1" data-name="Mask Group 1" clip-path="url(#clip-path-3)">
+              <path id="b2a74e49e9db9c852ae814cf4113f66d" d="M45.444,7.2H9.426A2.226,2.226,0,0,0,7.2,9.426V45.444A2.226,2.226,0,0,0,9.426,47.67H28.811V31.988H23.55v-6.07h5.261V21.364a7.365,7.365,0,0,1,7.851-8.094,41,41,0,0,1,4.715.243v5.463H38.159c-2.55,0-3.035,1.214-3.035,2.975v3.905h6.07l-.789,6.07H35.124V47.67h10.32a2.226,2.226,0,0,0,2.226-2.226V9.426A2.226,2.226,0,0,0,45.444,7.2Z" transform="translate(-7.2 -6.95)"/>
+            </g>
+            <g id="Mask_Group_2" data-name="Mask Group 2" transform="translate(61)" clip-path="url(#clip-path-3)">
+              <path id="_48da478fa6ca63ab6d70df54a8edf0ac" data-name="48da478fa6ca63ab6d70df54a8edf0ac" d="M47.67,17.8a17.179,17.179,0,0,1-4.775,1.3,8.357,8.357,0,0,0,3.663-4.593,16.613,16.613,0,0,1-5.281,2.023A8.3,8.3,0,0,0,27.111,24.1a23.553,23.553,0,0,1-17.1-8.681A8.418,8.418,0,0,0,8.9,19.606a8.276,8.276,0,0,0,3.683,6.9,8.2,8.2,0,0,1-3.764-1.032v.1A8.3,8.3,0,0,0,15.5,33.669a7.952,7.952,0,0,1-2.226.344,9.915,9.915,0,0,1-1.558-.142,8.317,8.317,0,0,0,7.75,5.747A16.633,16.633,0,0,1,9.223,43.179,16.047,16.047,0,0,1,7.2,43.058,23.412,23.412,0,0,0,19.928,46.8a23.452,23.452,0,0,0,23.7-23.634V22.094A17.058,17.058,0,0,0,47.67,17.8Z" transform="translate(-7.495 -9.845)"/>
+            </g>
+            <g id="Mask_Group_3" data-name="Mask Group 3" transform="translate(121)" clip-path="url(#clip-path-5)">
+              <path id="_193626fa651e2b7cd181015e05b1784e" data-name="193626fa651e2b7cd181015e05b1784e" d="M27.435,22.417a5.018,5.018,0,1,0,5.018,5.018A5.018,5.018,0,0,0,27.435,22.417Zm20.093-4.958a13.213,13.213,0,0,0-.85-4.573,8.094,8.094,0,0,0-4.694-4.694,13.213,13.213,0,0,0-4.573-.85C34.8,7.2,34.031,7.2,27.435,7.2s-7.365,0-9.976.142a13.213,13.213,0,0,0-4.573.85,8.094,8.094,0,0,0-4.694,4.694,13.213,13.213,0,0,0-.85,4.573C7.2,20.069,7.2,20.838,7.2,27.435s0,7.365.142,9.976A13.881,13.881,0,0,0,8.192,42a7.973,7.973,0,0,0,1.841,2.833,7.871,7.871,0,0,0,2.853,1.841,13.213,13.213,0,0,0,4.573.85c2.61.142,3.379.142,9.976.142s7.365,0,9.976-.142a13.213,13.213,0,0,0,4.573-.85,7.871,7.871,0,0,0,2.853-1.841A7.972,7.972,0,0,0,46.678,42a13.355,13.355,0,0,0,.85-4.593c.142-2.61.142-3.379.142-9.976S47.67,20.069,47.528,17.459Zm-5.14,16.188a11.594,11.594,0,0,1-.789,3.642,7.811,7.811,0,0,1-4.31,4.31,11.6,11.6,0,0,1-3.663.708H21.243A11.594,11.594,0,0,1,17.58,41.6a7.532,7.532,0,0,1-4.31-4.31,11.109,11.109,0,0,1-.688-3.663c0-1.6,0-2.023,0-6.192V21.243a11.109,11.109,0,0,1,.688-3.663,7.1,7.1,0,0,1,1.74-2.651,7.264,7.264,0,0,1,2.57-1.659,11.6,11.6,0,0,1,3.663-.708H33.627a11.6,11.6,0,0,1,3.663.708,7.532,7.532,0,0,1,4.31,4.31,11.6,11.6,0,0,1,.708,3.663c0,1.6,0,2.023,0,6.192s.142,4.593.081,6.192ZM39.151,18.592A4.816,4.816,0,0,0,36.3,15.739a8.094,8.094,0,0,0-2.792-.445H21.364a8.094,8.094,0,0,0-2.792.526,4.816,4.816,0,0,0-2.853,2.752,8.64,8.64,0,0,0-.425,2.792V33.505A8.64,8.64,0,0,0,15.82,36.3a4.816,4.816,0,0,0,2.853,2.853,8.64,8.64,0,0,0,2.691.526H33.505a8.094,8.094,0,0,0,2.792-.526A4.816,4.816,0,0,0,39.151,36.3a8.094,8.094,0,0,0,.526-2.792V21.364a7.649,7.649,0,0,0-.526-2.792ZM27.435,35.165a7.709,7.709,0,0,1-7.709-7.73h0a7.73,7.73,0,1,1,7.709,7.73Zm8.094-13.942a1.821,1.821,0,0,1,0-3.622h0a1.821,1.821,0,0,1,0,3.622Z" transform="translate(-6.791 -6.95)"/>
+            </g>
+            <g id="Mask_Group_6" data-name="Mask Group 6" transform="translate(183)" clip-path="url(#clip-path-5)">
+              <path id="f5df9939c5cf12c202d39be6866af88f" d="M43.7,23.95a15.626,15.626,0,0,0-1.673-7.592,5.368,5.368,0,0,0-3.162-1.838,144.059,144.059,0,0,0-15.387-.57A144.212,144.212,0,0,0,8.148,14.5a5.276,5.276,0,0,0-2.684,1.36C3.81,17.387,3.626,20,3.442,22.2a88.772,88.772,0,0,0,0,11.913,17.556,17.556,0,0,0,.552,3.677,5.772,5.772,0,0,0,1.305,2.5,5.258,5.258,0,0,0,2.739,1.434,83.058,83.058,0,0,0,11.949.607c6.434.092,12.078,0,18.751-.515a5.3,5.3,0,0,0,2.813-1.434,4.578,4.578,0,0,0,1.121-1.838,19.45,19.45,0,0,0,.956-6.25C43.7,31.266,43.7,25.053,43.7,23.95ZM19.325,33.4V22.019l10.883,5.717C27.157,29.428,23.131,31.34,19.325,33.4Z" transform="translate(-3.004 -7.661)"/>
+            </g>
+          </g>
+          <g id="Rectangle_14" data-name="Rectangle 14" transform="translate(863 50)" fill="#fff" stroke="#707070" stroke-width="1">
+            <rect width="122" height="44" stroke="none"/>
+            <rect x="0.5" y="0.5" width="121" height="43" fill="none"/>
+          </g>
+          <g id="Rectangle_15" data-name="Rectangle 15" transform="translate(725 50)" fill="#fff" stroke="#707070" stroke-width="1">
+            <rect width="122" height="44" stroke="none"/>
+            <rect x="0.5" y="0.5" width="121" height="43" fill="none"/>
+          </g>
+          <text id="CONTACT_US" data-name="CONTACT US" transform="translate(739 79)" fill="#2f2f2f" font-size="16" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">CONTACT US</tspan></text>
+          <text id="ABOUT_US" data-name="ABOUT US" transform="translate(886 79)" fill="#2f2f2f" font-size="16" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">ABOUT US</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Group_278" data-name="Group 278" transform="translate(-12455.5 -15172)">
+      <g id="Rectangle_5-2" data-name="Rectangle 5" transform="translate(0 121)" fill="#d6d6d6" stroke="#707070" stroke-width="1">
+        <rect width="1017" height="538" stroke="none"/>
+        <rect x="0.5" y="0.5" width="1016" height="537" fill="none"/>
+      </g>
+      <g id="Group_5-2" data-name="Group 5" transform="translate(425.066 583)">
+        <g id="Rectangle_7-2" data-name="Rectangle 7" transform="translate(-0.066 0)" stroke="#707070" stroke-width="1">
+          <rect width="167" height="29" stroke="none"/>
+          <rect x="0.5" y="0.5" width="166" height="28" fill="none"/>
+        </g>
+        <g id="Group_6-2" data-name="Group 6" transform="translate(8 7)">
+          <g id="Ellipse_4-7" data-name="Ellipse 4" transform="translate(-0.066 0)" fill="#fff" stroke="#707070" stroke-width="1">
+            <circle cx="8" cy="8" r="8" stroke="none"/>
+            <circle cx="8" cy="8" r="7.5" fill="none"/>
+          </g>
+          <g id="Ellipse_4-8" data-name="Ellipse 4" transform="translate(26.934 0)" fill="#fff" stroke="#707070" stroke-width="1">
+            <circle cx="8" cy="8" r="8" stroke="none"/>
+            <circle cx="8" cy="8" r="7.5" fill="none"/>
+          </g>
+          <g id="Ellipse_4-9" data-name="Ellipse 4" transform="translate(53.934 0)" fill="#fff" stroke="#707070" stroke-width="1">
+            <circle cx="8" cy="8" r="8" stroke="none"/>
+            <circle cx="8" cy="8" r="7.5" fill="none"/>
+          </g>
+          <g id="Ellipse_4-10" data-name="Ellipse 4" transform="translate(81.934 0)" fill="#fff" stroke="#707070" stroke-width="1">
+            <circle cx="8" cy="8" r="8" stroke="none"/>
+            <circle cx="8" cy="8" r="7.5" fill="none"/>
+          </g>
+          <g id="Ellipse_4-11" data-name="Ellipse 4" transform="translate(107.934 0)" fill="#fff" stroke="#707070" stroke-width="1">
+            <circle cx="8" cy="8" r="8" stroke="none"/>
+            <circle cx="8" cy="8" r="7.5" fill="none"/>
+          </g>
+          <g id="Ellipse_4-12" data-name="Ellipse 4" transform="translate(134.934 0)" fill="#fff" stroke="#707070" stroke-width="1">
+            <circle cx="8" cy="8" r="8" stroke="none"/>
+            <circle cx="8" cy="8" r="7.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <text id="Lorem_Ipsum-57" data-name="Lorem Ipsum" transform="translate(60 781)" font-size="58" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+      <g id="Group_73" data-name="Group 73" transform="translate(0 507)">
+        <g id="Rectangle_24" data-name="Rectangle 24" transform="translate(136 886)" fill="#d6d6d6" stroke="#707070" stroke-width="1">
+          <rect width="746" height="73" stroke="none"/>
+          <rect x="0.5" y="0.5" width="745" height="72" fill="none"/>
+        </g>
+        <g id="Group_67" data-name="Group 67" transform="translate(363.8 891)">
+          <g id="Group_70" data-name="Group 70" transform="translate(17.2 6)">
+            <text id="Add_to_Cart" data-name="Add to Cart" transform="translate(0 39)" font-size="35" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Add to Cart</tspan></text>
+            <g id="Group_52" data-name="Group 52" transform="translate(203.508)">
+              <g id="Mask_Group_8" data-name="Mask Group 8" transform="translate(0)" clip-path="url(#clip-path-8)">
+                <path id="XMLID_1732_" d="M51.973,17.239,45.915,36.319a3.21,3.21,0,0,1-3.057,2.265H19.476a3.339,3.339,0,0,1-3.114-2.095L7.417,12.54H2.265a2.265,2.265,0,0,1,0-4.529H9a2.318,2.318,0,0,1,2.151,1.529l9.228,24.515H41.9l4.812-15.286H20.042a2.265,2.265,0,0,1,0-4.529h29.78a2.251,2.251,0,0,1,1.812.962,2.2,2.2,0,0,1,.34,2.038ZM20.608,41.584a3.673,3.673,0,1,0,2.6,1.076A3.734,3.734,0,0,0,20.608,41.584Zm20.325,0a3.673,3.673,0,1,0,2.6,1.076A3.734,3.734,0,0,0,40.933,41.584Z" transform="translate(0.36 -2.754)"/>
+              </g>
+              <g id="Mask_Group_10" data-name="Mask Group 10" transform="translate(25.75 18.274)" clip-path="url(#clip-path-9)">
+                <path id="_510c44a574f3765bd8912da01a80fbd4" data-name="510c44a574f3765bd8912da01a80fbd4" d="M13.7,8.262H9.622V4.18a.68.68,0,0,0-1.36,0V8.262H4.18a.68.68,0,0,0,0,1.36H8.262V13.7a.68.68,0,1,0,1.36,0V9.622H13.7a.68.68,0,1,0,0-1.36Z" transform="translate(-3.236 -3.436)"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Rectangle_24-2" data-name="Rectangle 24" transform="translate(136 983)" stroke="#707070" stroke-width="1">
+          <rect width="746" height="80" stroke="none"/>
+          <rect x="0.5" y="0.5" width="745" height="79" fill="none"/>
+        </g>
+        <g id="Group_69" data-name="Group 69" transform="translate(18 7)">
+          <text id="Buy_Now" data-name="Buy Now" transform="translate(414 1032)" fill="#fff" font-size="39" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Buy Now</tspan></text>
+        </g>
+      </g>
+      <g id="Group_59" data-name="Group 59" transform="translate(96)">
+        <g id="Rectangle_29" data-name="Rectangle 29" transform="translate(701 175)" stroke="#707070" stroke-width="1">
+          <rect width="188" height="68" stroke="none"/>
+          <rect x="0.5" y="0.5" width="187" height="67" fill="none"/>
+        </g>
+        <text id="_4.5" data-name="4.5" transform="translate(739 225)" fill="#fff" font-size="39" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">4.5</tspan></text>
+        <g id="Mask_Group_12" data-name="Mask Group 12" transform="translate(810.992 188)" clip-path="url(#clip-path-11)">
+          <path id="_3c88dbdf1c4b6f9e14b81a26ec7d7c18" data-name="3c88dbdf1c4b6f9e14b81a26ec7d7c18" d="M47.427,22.269a1.993,1.993,0,0,0-1.7-2.339L33.6,18.228,28.076,7.17a1.66,1.66,0,0,0-.851-.851,2.152,2.152,0,0,0-2.977.851L18.932,18.228,6.81,19.93a1.286,1.286,0,0,0-1.276.638,2.056,2.056,0,0,0,0,2.977l8.719,8.506L12.127,44.172a2.7,2.7,0,0,0,.213,1.276,2.152,2.152,0,0,0,2.977.851l10.845-5.742L37.007,46.3a1.594,1.594,0,0,0,1.063.213H38.5a2.206,2.206,0,0,0,1.7-2.552L38.071,31.838l8.719-8.506A1.169,1.169,0,0,0,47.427,22.269Z" transform="translate(-5.568 -5.028)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Rectangle_2-2" data-name="Rectangle 2" transform="translate(32 33)" stroke="#707070" stroke-width="1">
+        <rect width="76" height="56" stroke="none"/>
+        <rect x="0.5" y="0.5" width="75" height="55" fill="none"/>
+      </g>
+      <text id="LOGO-2" data-name="LOGO" transform="translate(44 70)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">LOGO</tspan></text>
+      <g id="Group_48-2" data-name="Group 48">
+        <g id="Rectangle_1-2" data-name="Rectangle 1" fill="#e9e3e3" stroke="#707070" stroke-width="1">
+          <rect width="1017" height="121" stroke="none"/>
+          <rect x="0.5" y="0.5" width="1016" height="120" fill="none"/>
+        </g>
+        <g id="Group_3-2" data-name="Group 3" transform="translate(335.458 29)">
+          <g id="Rectangle_3-2" data-name="Rectangle 3" transform="translate(-0.458)" stroke="#707070" stroke-width="1">
+            <rect width="418" height="66" rx="33" stroke="none"/>
+            <rect x="0.5" y="0.5" width="417" height="65" rx="32.5" fill="none"/>
+          </g>
+          <g id="Group_1-2" data-name="Group 1" transform="translate(31.43 16.232)">
+            <g id="Rectangle_4-2" data-name="Rectangle 4" transform="matrix(0.574, 0.819, -0.819, 0.574, 16.657, 15.369)" fill="#fff" stroke="#707070" stroke-width="1">
+              <rect width="26" height="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="25" height="4" fill="none"/>
+            </g>
+            <g id="Ellipse_1-2" data-name="Ellipse 1" fill="#fff" stroke="#707070" stroke-width="1">
+              <circle cx="10.5" cy="10.5" r="10.5" stroke="none"/>
+              <circle cx="10.5" cy="10.5" r="10" fill="none"/>
+            </g>
+          </g>
+        </g>
+        <text id="SHOP-2" data-name="SHOP" transform="translate(165 71)" font-size="27" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">SHOP</tspan></text>
+        <g id="Group_4-2" data-name="Group 4" transform="translate(919 25)">
+          <g id="Ellipse_2-2" data-name="Ellipse 2" stroke="#707070" stroke-width="1">
+            <circle cx="37.5" cy="37.5" r="37.5" stroke="none"/>
+            <circle cx="37.5" cy="37.5" r="37" fill="none"/>
+          </g>
+          <g id="Ellipse_3-2" data-name="Ellipse 3" transform="translate(24 10)" fill="#fff" stroke="#707070" stroke-width="1">
+            <circle cx="14" cy="14" r="14" stroke="none"/>
+            <circle cx="14" cy="14" r="13.5" fill="none"/>
+          </g>
+        </g>
+        <g id="Group_2-2" data-name="Group 2" transform="translate(814 38.964)">
+          <path id="Path_1-2" data-name="Path 1" d="M14.768,38.048A4.256,4.256,0,1,0,19.024,42.3,4.237,4.237,0,0,0,14.768,38.048ZM2,4V8.256H6.256L13.906,24.4,11.033,29.61a4.326,4.326,0,0,0-.521,2.053,4.255,4.255,0,0,0,4.256,4.256H40.3V31.664H15.672a.527.527,0,0,1-.532-.532.505.505,0,0,1,.064-.255l1.9-3.469H32.962a4.27,4.27,0,0,0,3.724-2.192l7.608-13.811a2.057,2.057,0,0,0,.266-1.021,2.127,2.127,0,0,0-2.128-2.128H10.969L8.948,4H2ZM36.048,38.048A4.256,4.256,0,1,0,40.3,42.3,4.237,4.237,0,0,0,36.048,38.048Z" transform="translate(0.128 0.256)"/>
+          <path id="Path_2-2" data-name="Path 2" d="M0,0H51.071V51.071H0Z" fill="none"/>
+        </g>
+        <g id="_4227fc89fab27a2dd90f17fef882c004-2" data-name="4227fc89fab27a2dd90f17fef882c004" transform="translate(675 37)">
+          <path id="Path_3-2" data-name="Path 3" d="M0,0H56V56H0Z" fill="none"/>
+          <path id="Path_2729-2" data-name="Path 2729" d="M22.478,45.483a3.283,3.283,0,0,1-2.3-.957L4.012,28.363A13.328,13.328,0,1,1,22.507,9.168,13.334,13.334,0,1,1,40.983,28.4l-16.2,16.15A3.267,3.267,0,0,1,22.478,45.483Z" transform="translate(5.508 2.808)"/>
+        </g>
+      </g>
+      <g id="Mask_Group_7-2" data-name="Mask Group 7" clip-path="url(#clip-path-2)">
+        <g id="Layer_2-2" data-name="Layer 2" transform="translate(18 21)">
+          <g id="menu-2-2" data-name="menu-2">
+            <rect id="Rectangle_20-2" data-name="Rectangle 20" width="79" height="79" transform="translate(79 79) rotate(180)" opacity="0"/>
+            <circle id="Ellipse_5-2" data-name="Ellipse 5" cx="3.292" cy="3.292" r="3.292" transform="translate(9.875 36.208)"/>
+            <rect id="Rectangle_21-2" data-name="Rectangle 21" width="46.083" height="6.583" rx="3.094" transform="translate(23.042 36.208)"/>
+            <rect id="Rectangle_22-2" data-name="Rectangle 22" width="59.25" height="6.583" rx="3.094" transform="translate(9.875 52.667)"/>
+            <rect id="Rectangle_23-2" data-name="Rectangle 23" width="59.25" height="6.583" rx="3.094" transform="translate(9.875 19.75)"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_66" data-name="Group 66" transform="translate(-0.5 752)">
+        <g id="Group_57" data-name="Group 57" transform="translate(17 985)">
+          <g id="Rectangle_32" data-name="Rectangle 32" fill="#bcb6b6" stroke="#707070" stroke-width="1">
+            <rect width="235" height="80" stroke="none"/>
+            <rect x="0.5" y="0.5" width="234" height="79" fill="none"/>
+          </g>
+          <text id="Description" transform="translate(17 55)" fill="#fff" font-size="40" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Description</tspan></text>
+        </g>
+        <text id="Q_A" data-name="Q &amp; A" transform="translate(313 1042)" fill="#8d8d8d" font-size="40" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Q &amp; A</tspan></text>
+        <text id="Reviews" transform="translate(484 1042)" fill="#8d8d8d" font-size="40" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Reviews</tspan></text>
+        <g id="Group_60" data-name="Group 60" transform="translate(0 -23)">
+          <text id="_Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua._Ut_enim_ad_minim_veniam_quis_nostrud_exercitation_ullamco_laboris_nisi_ut_aliquip_ex_ea_commodo_consequat._Duis_aute_irure_dolo" data-name="&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+ incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+ Duis aute irure dolo" transform="translate(32 1303)" fill="#8d8d8d" font-size="27" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</tspan><tspan x="0" y="36" xml:space="preserve"> incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis</tspan><tspan x="0" y="72" xml:space="preserve"> nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</tspan><tspan x="0" y="108" xml:space="preserve"> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</tspan><tspan x="0" y="144" xml:space="preserve"> eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non</tspan><tspan x="0" y="180" xml:space="preserve"> proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&quot;</tspan></text>
+          <text id="_Sed_ut_perspiciatis_unde_omnis_iste_natus_error_sit_voluptatem_accusantium_doloremque_laudantium_totam_rem_aperiam_eaque_ipsa_quae_ab_illo_inventore_veritatis_et_quasi_architecto_beatae_vitae_dicta_sunt_explicabo._Nemo_enim_ipsam_voluptatem_quia_volu" data-name="&quot;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
+ doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore 
+veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
+ voluptatem quia volu" transform="translate(32 1718)" fill="#8d8d8d" font-size="27" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">&quot;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium</tspan><tspan x="0" y="36" xml:space="preserve"> doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore </tspan><tspan x="0" y="72">veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam</tspan><tspan x="0" y="108" xml:space="preserve"> voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia </tspan><tspan x="0" y="144">consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. </tspan><tspan x="0" y="180">Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur,</tspan><tspan x="0" y="216" xml:space="preserve"> adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore</tspan><tspan x="0" y="252" xml:space="preserve"> et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam,</tspan><tspan x="0" y="288" xml:space="preserve"> quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid </tspan><tspan x="0" y="324">ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea</tspan><tspan x="0" y="360" xml:space="preserve"> voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem </tspan><tspan x="0" y="396">eum fugiat quo voluptas nulla pariatur?&quot;</tspan></text>
+          <text id="v" transform="translate(533 1704)" fill="#8d8d8d" font-size="40" font-family="SegoeUI, Segoe UI"><tspan x="0" y="43">v</tspan></text>
+          <text id="The_standard_Lorem_Ipsum_passage_used_since_the_1500s" data-name="The standard Lorem Ipsum passage, used since the 1500s" transform="translate(29 1233)" fill="#8d8d8d" font-size="32" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">The standard Lorem Ipsum passage, used since the 1500s</tspan></text>
+          <text id="Section_1.10.32_of_de_Finibus_Bonorum_et_Malorum_written_by_Cicero_in_45_BC" data-name="Section 1.10.32 of &quot;de Finibus Bonorum et Malorum&quot;, written 
+by Cicero in 45 BC" transform="translate(29 1611)" fill="#8d8d8d" font-size="28" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Section 1.10.32 of &quot;de Finibus Bonorum et Malorum&quot;, written </tspan><tspan x="0" y="37">by Cicero in 45 BC</tspan></text>
+        </g>
+        <g id="Rectangle_34" data-name="Rectangle 34" transform="translate(0 1101)" fill="#dbdbdb" stroke="#707070" stroke-width="1">
+          <rect width="1017" height="3" stroke="none"/>
+          <rect x="0.5" y="0.5" width="1016" height="2" fill="none"/>
+        </g>
+        <g id="Group_46-2" data-name="Group 46" transform="translate(0 2408)">
+          <g id="Path_4-2" data-name="Path 4" transform="translate(0)" fill="#c2c2c2">
+            <path d="M 1016.5 649.5 L 712.016357421875 649.5 L 0.5 649.5 L 0.5 0.5 L 1016.5 0.5 L 1016.5 649.5 Z" stroke="none"/>
+            <path d="M 1 1 L 1 649 L 1016 649 L 1016 1 L 1 1 M 0 0 L 1017 0 L 1017 650 L 0 650 L 0 0 Z" stroke="none" fill="#707070"/>
+          </g>
+          <text id="Lorem_ipsum-58" data-name="Lorem ipsum" transform="translate(76 122)" fill="#2f2f2f" font-size="46" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+          <g id="Group_39-2" data-name="Group 39" transform="translate(297 590)">
+            <text id="Lorem_ipsum-59" data-name="Lorem ipsum" transform="translate(0 23)" fill="#2f2f2f" font-size="21" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+            <text id="Lorem_ipsum-60" data-name="Lorem ipsum" transform="translate(150 23)" fill="#2f2f2f" font-size="21" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+            <text id="Lorem_ipsum-61" data-name="Lorem ipsum" transform="translate(300 23)" fill="#2f2f2f" font-size="21" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+          </g>
+          <g id="Group_44-2" data-name="Group 44" transform="translate(529 229.492)">
+            <g id="Group_43-5" data-name="Group 43" transform="translate(0 -0.492)">
+              <text id="Lorem_ipsum-62" data-name="Lorem ipsum" transform="translate(0 18)" fill="#2f2f2f" font-size="17" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+              <text id="Lorem_ipsum-63" data-name="Lorem ipsum" transform="translate(139 18)" fill="#2f2f2f" font-size="17" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+              <text id="Lorem_ipsum-64" data-name="Lorem ipsum" transform="translate(278 18)" fill="#2f2f2f" font-size="17" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+            </g>
+            <g id="Group_43-6" data-name="Group 43" transform="translate(0 39.893)">
+              <text id="Lorem_ipsum-65" data-name="Lorem ipsum" transform="translate(0 17.615)" fill="#2f2f2f" font-size="17" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+              <text id="Lorem_ipsum-66" data-name="Lorem ipsum" transform="translate(139 17.615)" fill="#2f2f2f" font-size="17" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+              <text id="Lorem_ipsum-67" data-name="Lorem ipsum" transform="translate(278 17.615)" fill="#2f2f2f" font-size="17" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+            </g>
+            <g id="Group_43-7" data-name="Group 43" transform="translate(0 81.401)">
+              <text id="Lorem_ipsum-68" data-name="Lorem ipsum" transform="translate(0 18.108)" fill="#2f2f2f" font-size="17" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+              <text id="Lorem_ipsum-69" data-name="Lorem ipsum" transform="translate(139 18.108)" fill="#2f2f2f" font-size="17" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+              <text id="Lorem_ipsum-70" data-name="Lorem ipsum" transform="translate(278 18.108)" fill="#2f2f2f" font-size="17" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+            </g>
+            <g id="Group_43-8" data-name="Group 43" transform="translate(0 121.786)">
+              <text id="Lorem_ipsum-71" data-name="Lorem ipsum" transform="translate(0 17.722)" fill="#2f2f2f" font-size="17" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+              <text id="Lorem_ipsum-72" data-name="Lorem ipsum" transform="translate(139 17.722)" fill="#2f2f2f" font-size="17" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+              <text id="Lorem_ipsum-73" data-name="Lorem ipsum" transform="translate(278 17.722)" fill="#2f2f2f" font-size="17" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+            </g>
+          </g>
+          <g id="Group_40-2" data-name="Group 40" transform="translate(138 261.596)">
+            <g id="Mask_Group_1-2" data-name="Mask Group 1" clip-path="url(#clip-path-3)">
+              <path id="b2a74e49e9db9c852ae814cf4113f66d-2" data-name="b2a74e49e9db9c852ae814cf4113f66d" d="M45.444,7.2H9.426A2.226,2.226,0,0,0,7.2,9.426V45.444A2.226,2.226,0,0,0,9.426,47.67H28.811V31.988H23.55v-6.07h5.261V21.364a7.365,7.365,0,0,1,7.851-8.094,41,41,0,0,1,4.715.243v5.463H38.159c-2.55,0-3.035,1.214-3.035,2.975v3.905h6.07l-.789,6.07H35.124V47.67h10.32a2.226,2.226,0,0,0,2.226-2.226V9.426A2.226,2.226,0,0,0,45.444,7.2Z" transform="translate(-7.2 -6.95)"/>
+            </g>
+            <g id="Mask_Group_2-2" data-name="Mask Group 2" transform="translate(61)" clip-path="url(#clip-path-3)">
+              <path id="_48da478fa6ca63ab6d70df54a8edf0ac-2" data-name="48da478fa6ca63ab6d70df54a8edf0ac" d="M47.67,17.8a17.179,17.179,0,0,1-4.775,1.3,8.357,8.357,0,0,0,3.663-4.593,16.613,16.613,0,0,1-5.281,2.023A8.3,8.3,0,0,0,27.111,24.1a23.553,23.553,0,0,1-17.1-8.681A8.418,8.418,0,0,0,8.9,19.606a8.276,8.276,0,0,0,3.683,6.9,8.2,8.2,0,0,1-3.764-1.032v.1A8.3,8.3,0,0,0,15.5,33.669a7.952,7.952,0,0,1-2.226.344,9.915,9.915,0,0,1-1.558-.142,8.317,8.317,0,0,0,7.75,5.747A16.633,16.633,0,0,1,9.223,43.179,16.047,16.047,0,0,1,7.2,43.058,23.412,23.412,0,0,0,19.928,46.8a23.452,23.452,0,0,0,23.7-23.634V22.094A17.058,17.058,0,0,0,47.67,17.8Z" transform="translate(-7.495 -9.845)"/>
+            </g>
+            <g id="Mask_Group_3-2" data-name="Mask Group 3" transform="translate(121)" clip-path="url(#clip-path-5)">
+              <path id="_193626fa651e2b7cd181015e05b1784e-2" data-name="193626fa651e2b7cd181015e05b1784e" d="M27.435,22.417a5.018,5.018,0,1,0,5.018,5.018A5.018,5.018,0,0,0,27.435,22.417Zm20.093-4.958a13.213,13.213,0,0,0-.85-4.573,8.094,8.094,0,0,0-4.694-4.694,13.213,13.213,0,0,0-4.573-.85C34.8,7.2,34.031,7.2,27.435,7.2s-7.365,0-9.976.142a13.213,13.213,0,0,0-4.573.85,8.094,8.094,0,0,0-4.694,4.694,13.213,13.213,0,0,0-.85,4.573C7.2,20.069,7.2,20.838,7.2,27.435s0,7.365.142,9.976A13.881,13.881,0,0,0,8.192,42a7.973,7.973,0,0,0,1.841,2.833,7.871,7.871,0,0,0,2.853,1.841,13.213,13.213,0,0,0,4.573.85c2.61.142,3.379.142,9.976.142s7.365,0,9.976-.142a13.213,13.213,0,0,0,4.573-.85,7.871,7.871,0,0,0,2.853-1.841A7.972,7.972,0,0,0,46.678,42a13.355,13.355,0,0,0,.85-4.593c.142-2.61.142-3.379.142-9.976S47.67,20.069,47.528,17.459Zm-5.14,16.188a11.594,11.594,0,0,1-.789,3.642,7.811,7.811,0,0,1-4.31,4.31,11.6,11.6,0,0,1-3.663.708H21.243A11.594,11.594,0,0,1,17.58,41.6a7.532,7.532,0,0,1-4.31-4.31,11.109,11.109,0,0,1-.688-3.663c0-1.6,0-2.023,0-6.192V21.243a11.109,11.109,0,0,1,.688-3.663,7.1,7.1,0,0,1,1.74-2.651,7.264,7.264,0,0,1,2.57-1.659,11.6,11.6,0,0,1,3.663-.708H33.627a11.6,11.6,0,0,1,3.663.708,7.532,7.532,0,0,1,4.31,4.31,11.6,11.6,0,0,1,.708,3.663c0,1.6,0,2.023,0,6.192s.142,4.593.081,6.192ZM39.151,18.592A4.816,4.816,0,0,0,36.3,15.739a8.094,8.094,0,0,0-2.792-.445H21.364a8.094,8.094,0,0,0-2.792.526,4.816,4.816,0,0,0-2.853,2.752,8.64,8.64,0,0,0-.425,2.792V33.505A8.64,8.64,0,0,0,15.82,36.3a4.816,4.816,0,0,0,2.853,2.853,8.64,8.64,0,0,0,2.691.526H33.505a8.094,8.094,0,0,0,2.792-.526A4.816,4.816,0,0,0,39.151,36.3a8.094,8.094,0,0,0,.526-2.792V21.364a7.649,7.649,0,0,0-.526-2.792ZM27.435,35.165a7.709,7.709,0,0,1-7.709-7.73h0a7.73,7.73,0,1,1,7.709,7.73Zm8.094-13.942a1.821,1.821,0,0,1,0-3.622h0a1.821,1.821,0,0,1,0,3.622Z" transform="translate(-6.791 -6.95)"/>
+            </g>
+            <g id="Mask_Group_6-2" data-name="Mask Group 6" transform="translate(183)" clip-path="url(#clip-path-5)">
+              <path id="f5df9939c5cf12c202d39be6866af88f-2" data-name="f5df9939c5cf12c202d39be6866af88f" d="M43.7,23.95a15.626,15.626,0,0,0-1.673-7.592,5.368,5.368,0,0,0-3.162-1.838,144.059,144.059,0,0,0-15.387-.57A144.212,144.212,0,0,0,8.148,14.5a5.276,5.276,0,0,0-2.684,1.36C3.81,17.387,3.626,20,3.442,22.2a88.772,88.772,0,0,0,0,11.913,17.556,17.556,0,0,0,.552,3.677,5.772,5.772,0,0,0,1.305,2.5,5.258,5.258,0,0,0,2.739,1.434,83.058,83.058,0,0,0,11.949.607c6.434.092,12.078,0,18.751-.515a5.3,5.3,0,0,0,2.813-1.434,4.578,4.578,0,0,0,1.121-1.838,19.45,19.45,0,0,0,.956-6.25C43.7,31.266,43.7,25.053,43.7,23.95ZM19.325,33.4V22.019l10.883,5.717C27.157,29.428,23.131,31.34,19.325,33.4Z" transform="translate(-3.004 -7.661)"/>
+            </g>
+          </g>
+          <g id="Rectangle_14-2" data-name="Rectangle 14" transform="translate(863 50)" fill="#fff" stroke="#707070" stroke-width="1">
+            <rect width="122" height="44" stroke="none"/>
+            <rect x="0.5" y="0.5" width="121" height="43" fill="none"/>
+          </g>
+          <g id="Rectangle_15-2" data-name="Rectangle 15" transform="translate(725 50)" fill="#fff" stroke="#707070" stroke-width="1">
+            <rect width="122" height="44" stroke="none"/>
+            <rect x="0.5" y="0.5" width="121" height="43" fill="none"/>
+          </g>
+          <text id="CONTACT_US-2" data-name="CONTACT US" transform="translate(739 79)" fill="#2f2f2f" font-size="16" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">CONTACT US</tspan></text>
+          <text id="ABOUT_US-2" data-name="ABOUT US" transform="translate(886 79)" fill="#2f2f2f" font-size="16" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">ABOUT US</tspan></text>
+        </g>
+      </g>
+      <line id="Line_5" data-name="Line 5" x2="1017" transform="translate(0 1672)" fill="none" stroke="#707070" stroke-width="1"/>
+      <text id="_The_Digital_Copy_will_be_delivered_instantly_" data-name="( The Digital Copy will be delivered instantly )" transform="translate(558 1044)" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">( The Digital Copy will be delivered instantly )</tspan></text>
+      <g id="Group_88" data-name="Group 88" transform="translate(-155 189)">
+        <g id="Rectangle_35" data-name="Rectangle 35" transform="translate(759 729)" fill="#fff" stroke="#707070" stroke-width="1">
+          <rect width="265" height="81" rx="40.5" stroke="none"/>
+          <rect x="0.5" y="0.5" width="264" height="80" rx="40" fill="none"/>
+        </g>
+        <g id="Rectangle_36" data-name="Rectangle 36" transform="translate(765 735)" stroke="#707070" stroke-width="1">
+          <rect width="131" height="69" rx="34.5" stroke="none"/>
+          <rect x="0.5" y="0.5" width="130" height="68" rx="34" fill="none"/>
+        </g>
+        <text id="DVD" transform="translate(808 777)" fill="#fff" font-size="23" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">DVD</tspan></text>
+        <text id="DIGITAL" transform="translate(914 777)" font-size="23" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">DIGITAL</tspan></text>
+      </g>
+      <g id="Group_89" data-name="Group 89" transform="translate(-569 189)">
+        <g id="Rectangle_35-2" data-name="Rectangle 35" transform="translate(759 729)" fill="#fff" stroke="#707070" stroke-width="1">
+          <rect width="367" height="81" rx="40.5" stroke="none"/>
+          <rect x="0.5" y="0.5" width="366" height="80" rx="40" fill="none"/>
+        </g>
+        <g id="Rectangle_36-2" data-name="Rectangle 36" transform="translate(765 735)" stroke="#707070" stroke-width="1">
+          <rect width="131" height="69" rx="34.5" stroke="none"/>
+          <rect x="0.5" y="0.5" width="130" height="68" rx="34" fill="none"/>
+        </g>
+        <text id="PC" transform="translate(808 777)" fill="#fff" font-size="23" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">PC</tspan></text>
+        <text id="PS5-11" data-name="PS5" transform="translate(938 777)" font-size="23" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">PS5</tspan></text>
+        <text id="PS4" transform="translate(1039 777)" font-size="23" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">PS4</tspan></text>
+      </g>
+      <g id="_51a3dbe0e593ba390ac13cba118295e4" data-name="51a3dbe0e593ba390ac13cba118295e4" transform="translate(41.809 181.322)">
+        <path id="Path_9" data-name="Path 9" d="M29.927,8.515l-.806.8-.806-.806a14.8,14.8,0,1,0-20.93,20.93l.806.806L29.121,51.178,50.05,30.248l.806-.806A14.8,14.8,0,1,0,29.926,8.514Z" transform="translate(0 0)"/>
+        <path id="Path_10" data-name="Path 10" d="M29.927,8.515l-.806.8-.806-.806a14.8,14.8,0,1,0-20.93,20.93l.806.806L29.121,51.178,50.05,30.248l.806-.806A14.8,14.8,0,1,0,29.926,8.514Z" transform="translate(0 0)"/>
+      </g>
+      <g id="Group_85" data-name="Group 85" transform="translate(-402.5 508)">
+        <text id="_67.99" data-name="67.99" transform="translate(955.897 680)" font-size="43" font-family="SegoeUI, Segoe UI"><tspan x="0" y="46">67.99</tspan></text>
+        <path id="Path_7" data-name="Path 7" d="M15.118,4A1.979,1.979,0,0,0,13.17,6.01V8.151c-3.815.833-6.918,3.6-6.918,7.49,0,4.6,4.119,8.131,8.9,8.131,2.889,0,4.939,1.962,4.939,4.174s-2.05,4.166-4.939,4.166-4.939-1.955-4.939-4.166a1.979,1.979,0,1,0-3.957,0c0,3.893,3.1,6.667,6.918,7.5v2.172a1.979,1.979,0,1,0,3.957,0V35.852c3.879-.816,7-3.952,6.918-7.9,0-5.27-3.4-8.131-8.9-8.131-2.889,0-4.939-1.962-4.939-4.174,0-2.183,2-4.1,4.831-4.151a1.98,1.98,0,0,0,.224.008c2.823.056,4.823,1.963,4.823,4.143a1.979,1.979,0,1,0,3.957,0,8.317,8.317,0,0,0-6.918-7.907V6.01A1.979,1.979,0,0,0,15.118,4Z" transform="translate(922.851 688.689)"/>
+      </g>
+      <text id="_-66.98_" data-name="-66.98%" transform="translate(360.602 1233)" fill="#707070" font-size="40" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">-66.98%</tspan></text>
+      <g id="Group_91" data-name="Group 91">
+        <g id="Group_86" data-name="Group 86" transform="translate(-587.397 475.333)">
+          <text id="_99.99" data-name="99.99" transform="translate(1088.5 777.667)" fill="#707070" font-size="29" font-family="SegoeUI, Segoe UI"><tspan x="0" y="31">99.99</tspan></text>
+          <path id="Path_8" data-name="Path 8" d="M12.2,4A1.327,1.327,0,0,0,10.89,5.347V6.783C8.332,7.341,6.252,9.2,6.252,11.8a5.734,5.734,0,0,0,5.965,5.451,3.061,3.061,0,0,1,3.311,2.8,3.057,3.057,0,0,1-3.311,2.793,3.057,3.057,0,0,1-3.311-2.793,1.327,1.327,0,1,0-2.653,0c0,2.61,2.078,4.47,4.638,5.027v1.456a1.327,1.327,0,1,0,2.653,0V25.355a5.518,5.518,0,0,0,4.638-5.3c0-3.533-2.278-5.451-5.965-5.451a3.061,3.061,0,0,1-3.311-2.8,3.041,3.041,0,0,1,3.239-2.783,1.327,1.327,0,0,0,.15.005,3.037,3.037,0,0,1,3.234,2.778,1.327,1.327,0,1,0,2.653,0,5.576,5.576,0,0,0-4.638-5.3V5.347A1.327,1.327,0,0,0,12.2,4Z" transform="translate(1065.248 782.655)" fill="#707070"/>
+          <g id="Rectangle_45" data-name="Rectangle 45" transform="translate(1068.5 797.096)" fill="#d6d6d6" stroke="#707070" stroke-width="1">
+            <rect width="92" height="3" stroke="none"/>
+            <rect x="0.5" y="0.5" width="91" height="2" fill="none"/>
+          </g>
+        </g>
+        <text id="M.R.P" transform="translate(381.603 1284)" fill="#707070" font-size="29" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">M.R.P</tspan></text>
+      </g>
+    </g>
+    <g id="Group_279" data-name="Group 279" transform="translate(-11176 -15168)">
+      <g id="Group_107" data-name="Group 107" transform="translate(-99)">
+        <text id="Search_Results_for_" data-name="Search Results for " transform="translate(278 298)" font-size="43" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Search Results for </tspan></text>
+        <text id="_Lorem_Ipsum_" data-name="&quot;Lorem Ipsum&quot;" transform="translate(557 387)" font-size="58" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">&quot;Lorem Ipsum&quot;</tspan></text>
+      </g>
+      <line id="Line_9" data-name="Line 9" x2="1017" transform="translate(0 537)" fill="none" stroke="#707070" stroke-width="1"/>
+      <g id="Group_106" data-name="Group 106" transform="translate(-34)">
+        <g id="Group_97" data-name="Group 97">
+          <text id="Lorem_Ipsum-74" data-name="Lorem Ipsum" transform="translate(464 672)" font-size="55" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+          <text id="Lorem_Ipsum-75" data-name="Lorem Ipsum" transform="translate(464 732)" font-size="41" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+          <text id="Lorem_Ipsum-76" data-name="Lorem Ipsum" transform="translate(464 782)" font-size="36" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+          <g id="Rectangle_46" data-name="Rectangle 46" transform="translate(140 622)" fill="#d8c3c3" stroke="#707070" stroke-width="1">
+            <rect width="264" height="231" stroke="none"/>
+            <rect x="0.5" y="0.5" width="263" height="230" fill="none"/>
+          </g>
+        </g>
+        <g id="Group_98" data-name="Group 98" transform="translate(0 288)">
+          <text id="Lorem_Ipsum-77" data-name="Lorem Ipsum" transform="translate(464 672)" font-size="55" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+          <text id="Lorem_Ipsum-78" data-name="Lorem Ipsum" transform="translate(464 732)" font-size="41" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+          <text id="Lorem_Ipsum-79" data-name="Lorem Ipsum" transform="translate(464 782)" font-size="36" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+          <g id="Rectangle_46-2" data-name="Rectangle 46" transform="translate(140 622)" fill="#d8c3c3" stroke="#707070" stroke-width="1">
+            <rect width="264" height="231" stroke="none"/>
+            <rect x="0.5" y="0.5" width="263" height="230" fill="none"/>
+          </g>
+        </g>
+        <g id="Group_99" data-name="Group 99" transform="translate(0 576)">
+          <text id="Lorem_Ipsum-80" data-name="Lorem Ipsum" transform="translate(464 672)" font-size="55" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+          <text id="Lorem_Ipsum-81" data-name="Lorem Ipsum" transform="translate(464 732)" font-size="41" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+          <text id="Lorem_Ipsum-82" data-name="Lorem Ipsum" transform="translate(464 782)" font-size="36" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+          <g id="Rectangle_46-3" data-name="Rectangle 46" transform="translate(140 622)" fill="#d8c3c3" stroke="#707070" stroke-width="1">
+            <rect width="264" height="231" stroke="none"/>
+            <rect x="0.5" y="0.5" width="263" height="230" fill="none"/>
+          </g>
+        </g>
+        <g id="Group_100" data-name="Group 100" transform="translate(0 864)">
+          <text id="Lorem_Ipsum-83" data-name="Lorem Ipsum" transform="translate(464 672)" font-size="55" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+          <text id="Lorem_Ipsum-84" data-name="Lorem Ipsum" transform="translate(464 732)" font-size="41" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+          <text id="Lorem_Ipsum-85" data-name="Lorem Ipsum" transform="translate(464 782)" font-size="36" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+          <g id="Rectangle_46-4" data-name="Rectangle 46" transform="translate(140 622)" fill="#d8c3c3" stroke="#707070" stroke-width="1">
+            <rect width="264" height="231" stroke="none"/>
+            <rect x="0.5" y="0.5" width="263" height="230" fill="none"/>
+          </g>
+        </g>
+        <g id="Group_101" data-name="Group 101" transform="translate(0 1152)">
+          <text id="Lorem_Ipsum-86" data-name="Lorem Ipsum" transform="translate(464 672)" font-size="55" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+          <text id="Lorem_Ipsum-87" data-name="Lorem Ipsum" transform="translate(464 732)" font-size="41" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+          <text id="Lorem_Ipsum-88" data-name="Lorem Ipsum" transform="translate(464 782)" font-size="36" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+          <g id="Rectangle_46-5" data-name="Rectangle 46" transform="translate(140 622)" fill="#d8c3c3" stroke="#707070" stroke-width="1">
+            <rect width="264" height="231" stroke="none"/>
+            <rect x="0.5" y="0.5" width="263" height="230" fill="none"/>
+          </g>
+        </g>
+        <g id="Group_102" data-name="Group 102" transform="translate(0 1440)">
+          <text id="Lorem_Ipsum-89" data-name="Lorem Ipsum" transform="translate(464 672)" font-size="55" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+          <text id="Lorem_Ipsum-90" data-name="Lorem Ipsum" transform="translate(464 732)" font-size="41" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+          <text id="Lorem_Ipsum-91" data-name="Lorem Ipsum" transform="translate(464 782)" font-size="36" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+          <g id="Rectangle_46-6" data-name="Rectangle 46" transform="translate(140 622)" fill="#d8c3c3" stroke="#707070" stroke-width="1">
+            <rect width="264" height="231" stroke="none"/>
+            <rect x="0.5" y="0.5" width="263" height="230" fill="none"/>
+          </g>
+        </g>
+        <g id="Group_103" data-name="Group 103" transform="translate(0 1728)">
+          <text id="Lorem_Ipsum-92" data-name="Lorem Ipsum" transform="translate(464 672)" font-size="55" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+          <text id="Lorem_Ipsum-93" data-name="Lorem Ipsum" transform="translate(464 732)" font-size="41" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+          <text id="Lorem_Ipsum-94" data-name="Lorem Ipsum" transform="translate(464 782)" font-size="36" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+          <g id="Rectangle_46-7" data-name="Rectangle 46" transform="translate(140 622)" fill="#d8c3c3" stroke="#707070" stroke-width="1">
+            <rect width="264" height="231" stroke="none"/>
+            <rect x="0.5" y="0.5" width="263" height="230" fill="none"/>
+          </g>
+        </g>
+        <g id="Group_104" data-name="Group 104" transform="translate(0 2016)">
+          <text id="Lorem_Ipsum-95" data-name="Lorem Ipsum" transform="translate(464 672)" font-size="55" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+          <text id="Lorem_Ipsum-96" data-name="Lorem Ipsum" transform="translate(464 732)" font-size="41" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+          <text id="Lorem_Ipsum-97" data-name="Lorem Ipsum" transform="translate(464 782)" font-size="36" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+          <g id="Rectangle_46-8" data-name="Rectangle 46" transform="translate(140 622)" fill="#d8c3c3" stroke="#707070" stroke-width="1">
+            <rect width="264" height="231" stroke="none"/>
+            <rect x="0.5" y="0.5" width="263" height="230" fill="none"/>
+          </g>
+        </g>
+        <g id="Group_105" data-name="Group 105" transform="translate(0 2304)">
+          <text id="Lorem_Ipsum-98" data-name="Lorem Ipsum" transform="translate(464 672)" font-size="55" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+          <text id="Lorem_Ipsum-99" data-name="Lorem Ipsum" transform="translate(464 732)" font-size="41" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+          <text id="Lorem_Ipsum-100" data-name="Lorem Ipsum" transform="translate(464 782)" font-size="36" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+          <g id="Rectangle_46-9" data-name="Rectangle 46" transform="translate(140 622)" fill="#d8c3c3" stroke="#707070" stroke-width="1">
+            <rect width="264" height="231" stroke="none"/>
+            <rect x="0.5" y="0.5" width="263" height="230" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <g id="Rectangle_2-3" data-name="Rectangle 2" transform="translate(32 33)" stroke="#707070" stroke-width="1">
+        <rect width="76" height="56" stroke="none"/>
+        <rect x="0.5" y="0.5" width="75" height="55" fill="none"/>
+      </g>
+      <text id="LOGO-3" data-name="LOGO" transform="translate(44 70)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">LOGO</tspan></text>
+      <g id="Group_48-3" data-name="Group 48">
+        <g id="Rectangle_1-3" data-name="Rectangle 1" fill="#e9e3e3" stroke="#707070" stroke-width="1">
+          <rect width="1017" height="121" stroke="none"/>
+          <rect x="0.5" y="0.5" width="1016" height="120" fill="none"/>
+        </g>
+        <g id="Group_3-3" data-name="Group 3" transform="translate(335.458 29)">
+          <g id="Rectangle_3-3" data-name="Rectangle 3" transform="translate(-0.458)" stroke="#707070" stroke-width="1">
+            <rect width="418" height="66" rx="33" stroke="none"/>
+            <rect x="0.5" y="0.5" width="417" height="65" rx="32.5" fill="none"/>
+          </g>
+          <g id="Group_1-3" data-name="Group 1" transform="translate(31.43 16.232)">
+            <g id="Rectangle_4-3" data-name="Rectangle 4" transform="matrix(0.574, 0.819, -0.819, 0.574, 16.657, 15.369)" fill="#fff" stroke="#707070" stroke-width="1">
+              <rect width="26" height="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="25" height="4" fill="none"/>
+            </g>
+            <g id="Ellipse_1-3" data-name="Ellipse 1" fill="#fff" stroke="#707070" stroke-width="1">
+              <circle cx="10.5" cy="10.5" r="10.5" stroke="none"/>
+              <circle cx="10.5" cy="10.5" r="10" fill="none"/>
+            </g>
+          </g>
+        </g>
+        <text id="SHOP-3" data-name="SHOP" transform="translate(165 71)" font-size="27" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">SHOP</tspan></text>
+        <g id="Group_4-3" data-name="Group 4" transform="translate(919 25)">
+          <g id="Ellipse_2-3" data-name="Ellipse 2" stroke="#707070" stroke-width="1">
+            <circle cx="37.5" cy="37.5" r="37.5" stroke="none"/>
+            <circle cx="37.5" cy="37.5" r="37" fill="none"/>
+          </g>
+          <g id="Ellipse_3-3" data-name="Ellipse 3" transform="translate(24 10)" fill="#fff" stroke="#707070" stroke-width="1">
+            <circle cx="14" cy="14" r="14" stroke="none"/>
+            <circle cx="14" cy="14" r="13.5" fill="none"/>
+          </g>
+        </g>
+        <g id="Group_2-3" data-name="Group 2" transform="translate(814 38.964)">
+          <path id="Path_1-3" data-name="Path 1" d="M14.768,38.048A4.256,4.256,0,1,0,19.024,42.3,4.237,4.237,0,0,0,14.768,38.048ZM2,4V8.256H6.256L13.906,24.4,11.033,29.61a4.326,4.326,0,0,0-.521,2.053,4.255,4.255,0,0,0,4.256,4.256H40.3V31.664H15.672a.527.527,0,0,1-.532-.532.505.505,0,0,1,.064-.255l1.9-3.469H32.962a4.27,4.27,0,0,0,3.724-2.192l7.608-13.811a2.057,2.057,0,0,0,.266-1.021,2.127,2.127,0,0,0-2.128-2.128H10.969L8.948,4H2ZM36.048,38.048A4.256,4.256,0,1,0,40.3,42.3,4.237,4.237,0,0,0,36.048,38.048Z" transform="translate(0.128 0.256)"/>
+          <path id="Path_2-3" data-name="Path 2" d="M0,0H51.071V51.071H0Z" fill="none"/>
+        </g>
+        <g id="_4227fc89fab27a2dd90f17fef882c004-3" data-name="4227fc89fab27a2dd90f17fef882c004" transform="translate(675 37)">
+          <path id="Path_3-3" data-name="Path 3" d="M0,0H56V56H0Z" fill="none"/>
+          <path id="Path_2729-3" data-name="Path 2729" d="M22.478,45.483a3.283,3.283,0,0,1-2.3-.957L4.012,28.363A13.328,13.328,0,1,1,22.507,9.168,13.334,13.334,0,1,1,40.983,28.4l-16.2,16.15A3.267,3.267,0,0,1,22.478,45.483Z" transform="translate(5.508 2.808)"/>
+        </g>
+      </g>
+      <g id="Mask_Group_7-3" data-name="Mask Group 7" clip-path="url(#clip-path-2)">
+        <g id="Layer_2-3" data-name="Layer 2" transform="translate(18 21)">
+          <g id="menu-2-3" data-name="menu-2">
+            <rect id="Rectangle_20-3" data-name="Rectangle 20" width="79" height="79" transform="translate(79 79) rotate(180)" opacity="0"/>
+            <circle id="Ellipse_5-3" data-name="Ellipse 5" cx="3.292" cy="3.292" r="3.292" transform="translate(9.875 36.208)"/>
+            <rect id="Rectangle_21-3" data-name="Rectangle 21" width="46.083" height="6.583" rx="3.094" transform="translate(23.042 36.208)"/>
+            <rect id="Rectangle_22-3" data-name="Rectangle 22" width="59.25" height="6.583" rx="3.094" transform="translate(9.875 52.667)"/>
+            <rect id="Rectangle_23-3" data-name="Rectangle 23" width="59.25" height="6.583" rx="3.094" transform="translate(9.875 19.75)"/>
+          </g>
+        </g>
+      </g>
+      <g id="Mask_Group_13" data-name="Mask Group 13" transform="translate(34 -3)" clip-path="url(#clip-path-18)">
+        <g id="a308a9f786fcf96e8bda650b8ab19c46" transform="translate(855 171)">
+          <path id="Path_11" data-name="Path 11" d="M0,0H84.2V84.2H0Z" fill="none"/>
+          <path id="Path_12" data-name="Path 12" d="M37.684,68.352H51.718V61.335H37.684ZM13.125,26.25v7.017H76.278V26.25ZM23.65,50.809h42.1V43.792H23.65Z" transform="translate(-2.6 -5.199)"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_280" data-name="Group 280" transform="translate(-9896 -15168)">
+      <text id="Cart" transform="translate(427 301)" font-size="90" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Cart</tspan></text>
+      <line id="Line_9-2" data-name="Line 9" x2="877" transform="translate(70 537)" fill="none" stroke="#707070" stroke-width="1"/>
+      <text id="Items" transform="translate(140 493)" fill="#2f3535" font-size="32" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Items</tspan></text>
+      <text id="TYPE" transform="translate(532 493)" fill="#2f3535" font-size="32" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">TYPE</tspan></text>
+      <line id="Line_19" data-name="Line 19" y2="61.338" transform="translate(511.301 449.451)" fill="none" stroke="#707070" stroke-width="1"/>
+      <g id="Group_131" data-name="Group 131" transform="translate(31.93 -87.842)">
+        <g id="Rectangle_51" data-name="Rectangle 51" transform="translate(213.071 1954.842)" stroke="#707070" stroke-width="1">
+          <rect width="528" height="91" stroke="none"/>
+          <rect x="0.5" y="0.5" width="527" height="90" fill="none"/>
+        </g>
+        <g id="Group_122" data-name="Group 122" transform="translate(279.223 1967.511)">
+          <text id="Checkout" transform="translate(-0.152 47.33)" fill="#fff" font-size="44" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Checkout</tspan></text>
+          <g id="Group_121" data-name="Group 121" transform="translate(216.949 3.999)">
+            <text id="_170.52" data-name="170.52" transform="translate(19.112)" fill="#fff" font-size="39" font-family="SegoeUI, Segoe UI"><tspan x="0" y="42">170.52</tspan></text>
+            <path id="Path_7-2" data-name="Path 7" d="M16.082,4a2.047,2.047,0,0,0-2.16,1.919V7.963c-4.23.795-7.67,3.436-7.67,7.152,0,4.394,4.567,7.764,9.864,7.764,3.2,0,5.476,1.873,5.476,3.985s-2.273,3.978-5.476,3.978-5.476-1.866-5.476-3.978c.042-2.555-4.43-2.555-4.388,0,0,3.717,3.436,6.366,7.67,7.159V36.1c-.042,2.555,4.43,2.555,4.388,0V34.415c4.3-.779,7.761-3.774,7.67-7.543,0-5.032-3.767-7.764-9.864-7.764-3.2,0-5.476-1.874-5.476-3.985,0-2.084,2.221-3.914,5.356-3.963q.124.01.249.007c3.13.053,5.348,1.874,5.348,3.956-.042,2.555,4.43,2.555,4.388,0,0-3.771-3.369-6.771-7.67-7.55V5.919A2.059,2.059,0,0,0,16.082,4Z" transform="translate(-6.252 7.035)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+      <text id="QTY" transform="translate(678 493)" fill="#2f3535" font-size="32" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">QTY</tspan></text>
+      <text id="Price" transform="translate(811 493)" fill="#2f3535" font-size="32" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Price</tspan></text>
+      <line id="Line_14" data-name="Line 14" y2="61.338" transform="translate(775.242 449.004)" fill="none" stroke="#707070" stroke-width="1"/>
+      <g id="Group_129" data-name="Group 129">
+        <g id="Group_128" data-name="Group 128">
+          <text id="Lorem_Ipsum-101" data-name="Lorem Ipsum" transform="translate(277 645)" font-size="32" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+          <text id="Lorem_Ipsum-102" data-name="Lorem Ipsum" transform="translate(282 679)" font-size="23" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+          <text id="Lorem_Ipsum-103" data-name="Lorem Ipsum" transform="translate(284 709)" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+          <g id="Rectangle_46-10" data-name="Rectangle 46" transform="translate(46 610)" fill="#d8c3c3" stroke="#707070" stroke-width="1">
+            <rect width="215" height="165" stroke="none"/>
+            <rect x="0.5" y="0.5" width="214" height="164" fill="none"/>
+          </g>
+          <line id="Line_11" data-name="Line 11" x2="964.925" transform="translate(26.5 824.992)" fill="none" stroke="#707070" stroke-width="1"/>
+          <line id="Line_12" data-name="Line 12" x2="677.014" transform="translate(45.986 594.824)" fill="none" stroke="#707070" stroke-width="1" opacity="0"/>
+          <line id="Line_12-2" data-name="Line 12" x2="677.014" transform="translate(38.198 840.168)" fill="none" stroke="#707070" stroke-width="1" opacity="0"/>
+          <text id="_1" data-name="1" transform="translate(707 663)" fill="#2f3535" font-size="29" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">1</tspan></text>
+          <text id="_67.99-2" data-name="67.99" transform="translate(822.56 630.5)" font-size="32" font-family="SegoeUI, Segoe UI"><tspan x="0" y="35">67.99</tspan></text>
+          <path id="Path_7-3" data-name="Path 7" d="M14.622,4a1.743,1.743,0,0,0-1.839,1.634V7.375c-3.6.677-6.531,2.925-6.531,6.089,0,3.741,3.889,6.611,8.4,6.611,2.728,0,4.663,1.595,4.663,3.393s-1.935,3.387-4.663,3.387-4.663-1.589-4.663-3.387c.036-2.176-3.772-2.176-3.736,0,0,3.165,2.926,5.42,6.531,6.1v1.766c-.036,2.176,3.772,2.176,3.736,0V29.9c3.662-.663,6.608-3.213,6.531-6.422,0-4.284-3.207-6.611-8.4-6.611-2.727,0-4.663-1.6-4.663-3.393,0-1.775,1.891-3.332,4.56-3.375q.106.008.212.006c2.665.045,4.553,1.6,4.553,3.368-.036,2.175,3.772,2.175,3.736,0,0-3.211-2.869-5.766-6.531-6.429V5.634A1.753,1.753,0,0,0,14.622,4Z" transform="translate(794.748 636.039)"/>
+          <line id="Line_13" data-name="Line 13" y2="52.755" transform="translate(775.242 632.516)" fill="none" stroke="#707070" stroke-width="1"/>
+          <text id="DVD-2" data-name="DVD" transform="translate(547 662)" font-size="28" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">DVD</tspan></text>
+          <line id="Line_15" data-name="Line 15" y2="53" transform="translate(650.758 632.5)" fill="none" stroke="#707070" stroke-width="1"/>
+          <line id="Line_22" data-name="Line 22" y2="53" transform="translate(511.302 631)" fill="none" stroke="#707070" stroke-width="1"/>
+        </g>
+        <g id="Group_128-2" data-name="Group 128" transform="translate(0 267)">
+          <text id="Lorem_Ipsum-104" data-name="Lorem Ipsum" transform="translate(277 645)" font-size="32" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+          <text id="Lorem_Ipsum-105" data-name="Lorem Ipsum" transform="translate(282 679)" font-size="23" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+          <text id="Lorem_Ipsum-106" data-name="Lorem Ipsum" transform="translate(284 709)" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+          <g id="Rectangle_46-11" data-name="Rectangle 46" transform="translate(46 610)" fill="#d8c3c3" stroke="#707070" stroke-width="1">
+            <rect width="215" height="165" stroke="none"/>
+            <rect x="0.5" y="0.5" width="214" height="164" fill="none"/>
+          </g>
+          <line id="Line_11-2" data-name="Line 11" x2="964.925" transform="translate(26.5 824.992)" fill="none" stroke="#707070" stroke-width="1"/>
+          <line id="Line_12-3" data-name="Line 12" x2="677.014" transform="translate(45.986 594.824)" fill="none" stroke="#707070" stroke-width="1" opacity="0"/>
+          <line id="Line_12-4" data-name="Line 12" x2="677.014" transform="translate(38.198 840.168)" fill="none" stroke="#707070" stroke-width="1" opacity="0"/>
+          <text id="_1-2" data-name="1" transform="translate(707 663)" fill="#2f3535" font-size="29" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">1</tspan></text>
+          <text id="_53.99" data-name="53.99" transform="translate(822.56 630.5)" font-size="32" font-family="SegoeUI, Segoe UI"><tspan x="0" y="35">53.99</tspan></text>
+          <path id="Path_7-4" data-name="Path 7" d="M14.622,4a1.743,1.743,0,0,0-1.839,1.634V7.375c-3.6.677-6.531,2.925-6.531,6.089,0,3.741,3.889,6.611,8.4,6.611,2.728,0,4.663,1.595,4.663,3.393s-1.935,3.387-4.663,3.387-4.663-1.589-4.663-3.387c.036-2.176-3.772-2.176-3.736,0,0,3.165,2.926,5.42,6.531,6.1v1.766c-.036,2.176,3.772,2.176,3.736,0V29.9c3.662-.663,6.608-3.213,6.531-6.422,0-4.284-3.207-6.611-8.4-6.611-2.727,0-4.663-1.6-4.663-3.393,0-1.775,1.891-3.332,4.56-3.375q.106.008.212.006c2.665.045,4.553,1.6,4.553,3.368-.036,2.175,3.772,2.175,3.736,0,0-3.211-2.869-5.766-6.531-6.429V5.634A1.753,1.753,0,0,0,14.622,4Z" transform="translate(794.748 636.039)"/>
+          <line id="Line_13-2" data-name="Line 13" y2="52.755" transform="translate(775.242 632.516)" fill="none" stroke="#707070" stroke-width="1"/>
+          <text id="DVD-3" data-name="DVD" transform="translate(547 662)" font-size="28" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">DVD</tspan></text>
+          <line id="Line_15-2" data-name="Line 15" y2="53" transform="translate(650.758 632.5)" fill="none" stroke="#707070" stroke-width="1"/>
+          <line id="Line_22-2" data-name="Line 22" y2="53" transform="translate(511.302 631)" fill="none" stroke="#707070" stroke-width="1"/>
+        </g>
+        <g id="Group_128-3" data-name="Group 128" transform="translate(0 534)">
+          <text id="Lorem_Ipsum-107" data-name="Lorem Ipsum" transform="translate(277 645)" font-size="32" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+          <text id="Lorem_Ipsum-108" data-name="Lorem Ipsum" transform="translate(282 679)" font-size="23" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+          <text id="Lorem_Ipsum-109" data-name="Lorem Ipsum" transform="translate(284 709)" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+          <g id="Rectangle_46-12" data-name="Rectangle 46" transform="translate(46 610)" fill="#d8c3c3" stroke="#707070" stroke-width="1">
+            <rect width="215" height="165" stroke="none"/>
+            <rect x="0.5" y="0.5" width="214" height="164" fill="none"/>
+          </g>
+          <line id="Line_11-3" data-name="Line 11" x2="964.925" transform="translate(26.5 824.992)" fill="none" stroke="#707070" stroke-width="1"/>
+          <line id="Line_12-5" data-name="Line 12" x2="677.014" transform="translate(45.986 594.824)" fill="none" stroke="#707070" stroke-width="1" opacity="0"/>
+          <line id="Line_12-6" data-name="Line 12" x2="677.014" transform="translate(38.198 840.168)" fill="none" stroke="#707070" stroke-width="1" opacity="0"/>
+          <text id="_1-3" data-name="1" transform="translate(707 663)" fill="#2f3535" font-size="29" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">1</tspan></text>
+          <text id="_45.99" data-name="45.99" transform="translate(822.56 630.5)" font-size="32" font-family="SegoeUI, Segoe UI"><tspan x="0" y="35">45.99</tspan></text>
+          <path id="Path_7-5" data-name="Path 7" d="M14.622,4a1.743,1.743,0,0,0-1.839,1.634V7.375c-3.6.677-6.531,2.925-6.531,6.089,0,3.741,3.889,6.611,8.4,6.611,2.728,0,4.663,1.595,4.663,3.393s-1.935,3.387-4.663,3.387-4.663-1.589-4.663-3.387c.036-2.176-3.772-2.176-3.736,0,0,3.165,2.926,5.42,6.531,6.1v1.766c-.036,2.176,3.772,2.176,3.736,0V29.9c3.662-.663,6.608-3.213,6.531-6.422,0-4.284-3.207-6.611-8.4-6.611-2.727,0-4.663-1.6-4.663-3.393,0-1.775,1.891-3.332,4.56-3.375q.106.008.212.006c2.665.045,4.553,1.6,4.553,3.368-.036,2.175,3.772,2.175,3.736,0,0-3.211-2.869-5.766-6.531-6.429V5.634A1.753,1.753,0,0,0,14.622,4Z" transform="translate(794.748 636.039)"/>
+          <line id="Line_13-3" data-name="Line 13" y2="52.755" transform="translate(775.242 632.516)" fill="none" stroke="#707070" stroke-width="1"/>
+          <text id="DVD-4" data-name="DVD" transform="translate(547 662)" font-size="28" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">DVD</tspan></text>
+          <line id="Line_15-3" data-name="Line 15" y2="53" transform="translate(650.758 632.5)" fill="none" stroke="#707070" stroke-width="1"/>
+          <line id="Line_22-3" data-name="Line 22" y2="53" transform="translate(511.302 631)" fill="none" stroke="#707070" stroke-width="1"/>
+        </g>
+      </g>
+      <line id="Line_21" data-name="Line 21" y2="60.238" transform="translate(650.758 449.657)" fill="none" stroke="#707070" stroke-width="1"/>
+      <g id="Group_130" data-name="Group 130" transform="translate(54.924 -40.5)">
+        <g id="Group_115" data-name="Group 115" transform="translate(758.72 1446)">
+          <text id="_167.97" data-name="167.97" transform="translate(25.56)" font-size="32" font-family="SegoeUI, Segoe UI"><tspan x="0" y="35">167.97</tspan></text>
+          <path id="Path_7-6" data-name="Path 7" d="M14.656,4a1.75,1.75,0,0,0-1.846,1.64V7.388c-3.616.68-6.557,2.937-6.557,6.114,0,3.756,3.9,6.638,8.433,6.638,2.739,0,4.682,1.6,4.682,3.407s-1.943,3.4-4.682,3.4S10,25.352,10,23.547c.036-2.184-3.787-2.184-3.751,0,0,3.178,2.938,5.442,6.557,6.12V31.44c-.036,2.184,3.787,2.184,3.751,0V30c3.677-.666,6.635-3.226,6.557-6.448,0-4.3-3.22-6.638-8.433-6.638-2.739,0-4.682-1.6-4.682-3.407,0-1.782,1.9-3.346,4.579-3.388q.106.008.212.006c2.676.046,4.572,1.6,4.572,3.382-.036,2.184,3.787,2.184,3.751,0,0-3.224-2.88-5.789-6.557-6.455V5.641A1.76,1.76,0,0,0,14.656,4Z" transform="translate(-6.252 2.96)"/>
+        </g>
+        <g id="Group_117" data-name="Group 117" transform="translate(761.72 1524)">
+          <text id="_1.00" data-name="1.00" transform="translate(25.56)" font-size="28" font-family="SegoeUI, Segoe UI"><tspan x="0" y="30">1.00</tspan></text>
+          <path id="Path_7-7" data-name="Path 7" d="M13.056,4a1.417,1.417,0,0,0-1.495,1.328V6.744c-2.928.55-5.309,2.378-5.309,4.95,0,3.041,3.161,5.374,6.828,5.374,2.217,0,3.791,1.3,3.791,2.759S15.3,22.581,13.08,22.581s-3.791-1.292-3.791-2.754c.029-1.769-3.066-1.769-3.037,0,0,2.573,2.379,4.407,5.309,4.956v1.436c-.029,1.769,3.066,1.769,3.037,0V25.054c2.977-.539,5.372-2.612,5.309-5.221,0-3.483-2.608-5.374-6.828-5.374-2.217,0-3.791-1.3-3.791-2.759,0-1.443,1.537-2.709,3.708-2.743q.086.007.172.005c2.166.037,3.7,1.3,3.7,2.738-.029,1.769,3.066,1.769,3.037,0,0-2.61-2.332-4.687-5.309-5.226V5.328A1.425,1.425,0,0,0,13.056,4Z" transform="translate(-6.252 2.96)"/>
+        </g>
+        <g id="Group_118" data-name="Group 118" transform="translate(761.72 1489)">
+          <text id="_1.55" data-name="1.55" transform="translate(25.56)" font-size="28" font-family="SegoeUI, Segoe UI"><tspan x="0" y="30">1.55</tspan></text>
+          <path id="Path_7-8" data-name="Path 7" d="M13.056,4a1.417,1.417,0,0,0-1.495,1.328V6.744c-2.928.55-5.309,2.378-5.309,4.95,0,3.041,3.161,5.374,6.828,5.374,2.217,0,3.791,1.3,3.791,2.759S15.3,22.581,13.08,22.581s-3.791-1.292-3.791-2.754c.029-1.769-3.066-1.769-3.037,0,0,2.573,2.379,4.407,5.309,4.956v1.436c-.029,1.769,3.066,1.769,3.037,0V25.054c2.977-.539,5.372-2.612,5.309-5.221,0-3.483-2.608-5.374-6.828-5.374-2.217,0-3.791-1.3-3.791-2.759,0-1.443,1.537-2.709,3.708-2.743q.086.007.172.005c2.166.037,3.7,1.3,3.7,2.738-.029,1.769,3.066,1.769,3.037,0,0-2.61-2.332-4.687-5.309-5.226V5.328A1.425,1.425,0,0,0,13.056,4Z" transform="translate(-6.252 2.96)"/>
+        </g>
+        <g id="Group_127" data-name="Group 127" transform="translate(-73)">
+          <text id="Sub_Total" data-name="Sub Total" transform="translate(575 1481)" fill="#2f3535" font-size="33" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Sub Total</tspan></text>
+          <text id="Shipping_Charges" data-name="Shipping Charges" transform="translate(506 1554)" fill="#2f3535" font-size="26" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Shipping Charges</tspan></text>
+          <text id="Tax" transform="translate(669 1519)" fill="#2f3535" font-size="28" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Tax</tspan></text>
+        </g>
+        <g id="Mask_Group_14" data-name="Mask Group 14" transform="translate(729 1496)" clip-path="url(#clip-path-19)">
+          <g id="_82cc567f1b81f8fb52b7f0c5a3ecebd8" data-name="82cc567f1b81f8fb52b7f0c5a3ecebd8">
+            <path id="Path_13" data-name="Path 13" d="M0,0H23V23H0Z" fill="none"/>
+            <path id="Path_14" data-name="Path 14" d="M17.25,12.458H12.458V17.25a.958.958,0,0,1-1.917,0V12.458H5.75a.958.958,0,1,1,0-1.917h4.792V5.75a.958.958,0,1,1,1.917,0v4.792H17.25a.958.958,0,0,1,0,1.917Z"/>
+          </g>
+        </g>
+        <g id="Mask_Group_15" data-name="Mask Group 15" transform="translate(729 1533)" clip-path="url(#clip-path-19)">
+          <g id="_82cc567f1b81f8fb52b7f0c5a3ecebd8-2" data-name="82cc567f1b81f8fb52b7f0c5a3ecebd8">
+            <path id="Path_15" data-name="Path 15" d="M0,0H23V23H0Z" fill="none"/>
+            <path id="Path_16" data-name="Path 16" d="M17.25,12.458H12.458V17.25a.958.958,0,0,1-1.917,0V12.458H5.75a.958.958,0,1,1,0-1.917h4.792V5.75a.958.958,0,1,1,1.917,0v4.792H17.25a.958.958,0,0,1,0,1.917Z"/>
+          </g>
+        </g>
+        <line id="Line_17" data-name="Line 17" x2="535" transform="translate(401.5 1580.5)" fill="none" stroke="#707070" stroke-width="1"/>
+        <g id="Group_120" data-name="Group 120" transform="translate(505 1619)">
+          <g id="Group_119" data-name="Group 119" transform="translate(228.463 1.5)">
+            <text id="_170.52-2" data-name="170.52" transform="translate(22.597)" font-size="39" font-family="SegoeUI, Segoe UI"><tspan x="0" y="42">170.52</tspan></text>
+            <path id="Path_7-9" data-name="Path 7" d="M16.243,4a2.081,2.081,0,0,0-2.2,1.95V8.028c-4.3.808-7.8,3.492-7.8,7.269,0,4.466,4.642,7.891,10.026,7.891,3.256,0,5.566,1.9,5.566,4.051s-2.31,4.043-5.566,4.043-5.566-1.9-5.566-4.043c.043-2.6-4.5-2.6-4.46,0,0,3.778,3.493,6.47,7.8,7.276v2.108c-.043,2.6,4.5,2.6,4.46,0v-1.71c4.372-.792,7.888-3.835,7.8-7.666,0-5.114-3.829-7.891-10.026-7.891-3.256,0-5.566-1.9-5.566-4.051,0-2.118,2.257-3.978,5.444-4.028q.126.01.253.007c3.181.054,5.435,1.9,5.435,4.021-.043,2.6,4.5,2.6,4.46,0,0-3.832-3.424-6.883-7.8-7.674V5.951A2.092,2.092,0,0,0,16.243,4Z" transform="translate(-6.252 6)"/>
+          </g>
+          <text id="To_Pay" data-name="To Pay" transform="translate(0 44)" font-size="41" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">To Pay</tspan></text>
+          <line id="Line_18" data-name="Line 18" y2="48" transform="translate(171.5 5.5)" fill="none" stroke="#707070" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Rectangle_2-4" data-name="Rectangle 2" transform="translate(32 33)" stroke="#707070" stroke-width="1">
+        <rect width="76" height="56" stroke="none"/>
+        <rect x="0.5" y="0.5" width="75" height="55" fill="none"/>
+      </g>
+      <text id="LOGO-4" data-name="LOGO" transform="translate(44 70)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">LOGO</tspan></text>
+      <g id="Group_48-4" data-name="Group 48">
+        <g id="Rectangle_1-4" data-name="Rectangle 1" fill="#e9e3e3" stroke="#707070" stroke-width="1">
+          <rect width="1017" height="121" stroke="none"/>
+          <rect x="0.5" y="0.5" width="1016" height="120" fill="none"/>
+        </g>
+        <g id="Group_3-4" data-name="Group 3" transform="translate(335.458 29)">
+          <g id="Rectangle_3-4" data-name="Rectangle 3" transform="translate(-0.458)" stroke="#707070" stroke-width="1">
+            <rect width="418" height="66" rx="33" stroke="none"/>
+            <rect x="0.5" y="0.5" width="417" height="65" rx="32.5" fill="none"/>
+          </g>
+          <g id="Group_1-4" data-name="Group 1" transform="translate(31.43 16.232)">
+            <g id="Rectangle_4-4" data-name="Rectangle 4" transform="matrix(0.574, 0.819, -0.819, 0.574, 16.657, 15.369)" fill="#fff" stroke="#707070" stroke-width="1">
+              <rect width="26" height="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="25" height="4" fill="none"/>
+            </g>
+            <g id="Ellipse_1-4" data-name="Ellipse 1" fill="#fff" stroke="#707070" stroke-width="1">
+              <circle cx="10.5" cy="10.5" r="10.5" stroke="none"/>
+              <circle cx="10.5" cy="10.5" r="10" fill="none"/>
+            </g>
+          </g>
+        </g>
+        <text id="SHOP-4" data-name="SHOP" transform="translate(165 71)" font-size="27" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">SHOP</tspan></text>
+        <g id="Group_4-4" data-name="Group 4" transform="translate(919 25)">
+          <g id="Ellipse_2-4" data-name="Ellipse 2" stroke="#707070" stroke-width="1">
+            <circle cx="37.5" cy="37.5" r="37.5" stroke="none"/>
+            <circle cx="37.5" cy="37.5" r="37" fill="none"/>
+          </g>
+          <g id="Ellipse_3-4" data-name="Ellipse 3" transform="translate(24 10)" fill="#fff" stroke="#707070" stroke-width="1">
+            <circle cx="14" cy="14" r="14" stroke="none"/>
+            <circle cx="14" cy="14" r="13.5" fill="none"/>
+          </g>
+        </g>
+        <g id="Group_2-4" data-name="Group 2" transform="translate(814 38.964)">
+          <path id="Path_1-4" data-name="Path 1" d="M14.768,38.048A4.256,4.256,0,1,0,19.024,42.3,4.237,4.237,0,0,0,14.768,38.048ZM2,4V8.256H6.256L13.906,24.4,11.033,29.61a4.326,4.326,0,0,0-.521,2.053,4.255,4.255,0,0,0,4.256,4.256H40.3V31.664H15.672a.527.527,0,0,1-.532-.532.505.505,0,0,1,.064-.255l1.9-3.469H32.962a4.27,4.27,0,0,0,3.724-2.192l7.608-13.811a2.057,2.057,0,0,0,.266-1.021,2.127,2.127,0,0,0-2.128-2.128H10.969L8.948,4H2ZM36.048,38.048A4.256,4.256,0,1,0,40.3,42.3,4.237,4.237,0,0,0,36.048,38.048Z" transform="translate(0.128 0.256)"/>
+          <path id="Path_2-4" data-name="Path 2" d="M0,0H51.071V51.071H0Z" fill="none"/>
+        </g>
+        <g id="_4227fc89fab27a2dd90f17fef882c004-4" data-name="4227fc89fab27a2dd90f17fef882c004" transform="translate(675 37)">
+          <path id="Path_3-4" data-name="Path 3" d="M0,0H56V56H0Z" fill="none"/>
+          <path id="Path_2729-4" data-name="Path 2729" d="M22.478,45.483a3.283,3.283,0,0,1-2.3-.957L4.012,28.363A13.328,13.328,0,1,1,22.507,9.168,13.334,13.334,0,1,1,40.983,28.4l-16.2,16.15A3.267,3.267,0,0,1,22.478,45.483Z" transform="translate(5.508 2.808)"/>
+        </g>
+      </g>
+      <g id="Mask_Group_7-4" data-name="Mask Group 7" clip-path="url(#clip-path-2)">
+        <g id="Layer_2-4" data-name="Layer 2" transform="translate(18 21)">
+          <g id="menu-2-4" data-name="menu-2">
+            <rect id="Rectangle_20-4" data-name="Rectangle 20" width="79" height="79" transform="translate(79 79) rotate(180)" opacity="0"/>
+            <circle id="Ellipse_5-4" data-name="Ellipse 5" cx="3.292" cy="3.292" r="3.292" transform="translate(9.875 36.208)"/>
+            <rect id="Rectangle_21-4" data-name="Rectangle 21" width="46.083" height="6.583" rx="3.094" transform="translate(23.042 36.208)"/>
+            <rect id="Rectangle_22-4" data-name="Rectangle 22" width="59.25" height="6.583" rx="3.094" transform="translate(9.875 52.667)"/>
+            <rect id="Rectangle_23-4" data-name="Rectangle 23" width="59.25" height="6.583" rx="3.094" transform="translate(9.875 19.75)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
