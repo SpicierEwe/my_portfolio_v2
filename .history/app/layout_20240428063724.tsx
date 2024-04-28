@@ -27,7 +27,7 @@ export default function RootLayout({
             {children}
 
             {/* sticks on the screen */}
-            {/* <DevicePreview> </DevicePreview> */}
+            <DevicePreview> </DevicePreview>
           </div>
         }
       </body>

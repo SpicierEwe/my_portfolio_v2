@@ -7,7 +7,7 @@ export const metadata = {
 };
 
 export default function ContactPage() {
-  const reachOutList = ["collaborations", "projects", "Saying hello!"];
+  const a = ["collaborations", "projects", "Say hello!"];
   let handleEmail = () => {
     const emailUrl =
       "mailto:dev.abeliever@gmail.com?subject=Hello&body=Hi there!";
@@ -20,11 +20,11 @@ export default function ContactPage() {
       <h1 className="text-center text-5xl md:text-7xl mt-14 mb-5 text-[#025a4e] font-black">
         Contact me
       </h1>
-      <div className="flex flex-col gap-5 justify-center  mt-14 mx-11 sm:w-fit sm:mx-auto">
+      <div className="flex flex-col gap-5  mt-14 mx-11 md:w-fit   md:mx-auto">
         <a
           href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=hammadtayyab92@gmail.com&amp;cc=dev.abeliever@gmail.com&amp;su=&amp;body=Greetings%20Hammad%2C"
           target="_blank"
-          className="flex justify-start items-center bg-blue-50 border border-brand-color hover:bg-brand-color hover:text-white group gap-5 px-8 py-3 rounded-full shadow transition-all duration-300 ease-in-out cursor-pointer"
+          className=" flex justify-start md:justify-center items-center bg-blue-50 border border-brand-color hover:bg-brand-color hover:text-white group gap-5 px-8 py-3 rounded-full shadow transition-all duration-300 ease-in-out cursor-pointer"
         >
           <MdEmail
             size={53}
@@ -32,27 +32,20 @@ export default function ContactPage() {
           />
           <div>
             <p>Email me</p>
-            <p className="">dev.abeliever@gmail.com</p>
+            <p>dev.abeliever@gmail.com</p>
           </div>
         </a>
       </div>
 
-      <div className="mt-14 md:mt-20">
-        <h2 className="text-center text-xl">Reach out to me for</h2>
-        <div className="flex flex-wrap p-10 gap-9 items-center justify-center">
-          {reachOutList.map((item) => {
+      <div>
+        <h2>Reach out to me</h2>
+        <div className="flex flex-wrap">
+          {a.map((item) => {
             return (
-              <p
-                style={{
-                  backgroundImage:
-                    "radial-gradient( circle farthest-corner at 10% 20%,  rgba(176,229,208,1) 42%, rgba(92,202,238,0.41) 93.6%",
-                }}
-                key={item}
-                className="font-bold shadow p-5 md:px-14 text-[#025a4e] rounded-full capitalize"
-              >
+              <span key={item}>
                 {item}
                 <br />
-              </p>
+              </span>
             );
           })}
         </div>

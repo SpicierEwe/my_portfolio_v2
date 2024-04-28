@@ -7,7 +7,7 @@ export const metadata = {
 };
 
 export default function ContactPage() {
-  const reachOutList = ["collaborations", "projects", "Saying hello!"];
+  const a = ["collaborations", "projects", "Saying hello!"];
   let handleEmail = () => {
     const emailUrl =
       "mailto:dev.abeliever@gmail.com?subject=Hello&body=Hi there!";
@@ -30,9 +30,9 @@ export default function ContactPage() {
             size={53}
             className="group-hover:scale-110 group-hover:text-white text-secondary-color  transition-all duration-300 ease-in-out "
           />
-          <div>
+          <div className="text-ellipsis">
             <p>Email me</p>
-            <p className="">dev.abeliever@gmail.com</p>
+            <p>dev.abeliever@gmail.com</p>
           </div>
         </a>
       </div>
@@ -40,7 +40,7 @@ export default function ContactPage() {
       <div className="mt-14 md:mt-20">
         <h2 className="text-center text-xl">Reach out to me for</h2>
         <div className="flex flex-wrap p-10 gap-9 items-center justify-center">
-          {reachOutList.map((item) => {
+          {a.map((item) => {
             return (
               <p
                 style={{

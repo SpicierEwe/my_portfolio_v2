@@ -1,10 +1,9 @@
 import Link from "next/link";
 
-export const metadata = {
-  title: "About me | Hammad",
-  description:
-    "Learn more about me Hammad Bin Tayyab and my journey in design and development. Discover my passion for creating innovative solutions.",
+export const metaData = {
+  title: "About Me | Hammad Bin Tayyab",
 };
+
 export default function AboutPage() {
   return (
     <div className="max-w-screen-xl mx-auto">

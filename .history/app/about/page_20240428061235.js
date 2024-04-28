@@ -1,7 +1,9 @@
 import Link from "next/link";
 
+import { Metadata } from "next";
+
 export const metadata = {
-  title: "About me | Hammad",
+  title: "About me",
   description:
     "Learn more about me Hammad Bin Tayyab and my journey in design and development. Discover my passion for creating innovative solutions.",
 };
