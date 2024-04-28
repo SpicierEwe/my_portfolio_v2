@@ -19,7 +19,7 @@ export default function WorkSection() {
       />
       {/* nav */}
       <nav>
-        <ul className="flex justify-center mt-12 md:mt-14 gap-2 flex-wrap">
+        <ul className="flex justify-center mt-12 md:mt-20 gap-2 flex-wrap">
           {navItems.map((item, index) => {
             const isSelected: Boolean = selectedNavItemIndex == index;
             return (

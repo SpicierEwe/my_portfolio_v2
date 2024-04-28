@@ -28,9 +28,9 @@ export default function TechStackSection() {
         {uniqueTechStack.map((tech, index) => (
           <div
             key={index}
-            className="bg-white border w-25 h-auto flex flex-col items-center justify-center p-5 rounded-lg group hover:bg-gray-50 transition-all duration-300 ease-in-out"
+            className="bg-white border w-25 h-auto flex flex-col items-center justify-center p-5 rounded-lg group"
           >
-            <div className="bg-white rounded-full p-3 border border-secondary-color overflow-hidden drop-shadow animate-wiggle  ">
+            <div className="bg-white rounded-full p-3 border border-secondary-color overflow-hidden drop-shadow animate-wiggle group-hover:bg-gray-100  transition-all duration-300 ease-in-out ">
               {getIcon(tech, "w-9 h-9 p-1")}
             </div>
             <p className="mt-5 text-center">{tech}</p>

@@ -4,7 +4,6 @@ import { getIcon } from "../../core/utils/utils";
 import Link from "next/link";
 import { useRouter, usePathname } from "next/navigation";
 import { useState } from "react";
-import Image from "next/image";
 
 export default function NavBar(props) {
   const router = useRouter();
@@ -47,12 +46,11 @@ export default function NavBar(props) {
       {/* if  route is home make it float */}
       <div className={`${isHome ? "absolute z-20 w-full top-0" : ""}`}>
         <nav className="flex justify-between items-center px-5 py-3  ">
-          <Link href="/" className="cursor-pointer">
+          <Link href="/">
             <Image
-              className="rounded-full w-9 h-9 md:w-12 md:h-12 hover:scale-105 transition-transform duration-300 ease-in-out shadow"
               src="/images/logo/logo.svg"
-              width={1000}
-              height={1000}
+              width={100}
+              height={100}
               alt="logo"
             ></Image>
           </Link>

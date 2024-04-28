@@ -50,7 +50,7 @@ export default function NavBar(props) {
           <Link href="/" className="cursor-pointer">
             <Image
               className="rounded-full w-9 h-9 md:w-12 md:h-12 hover:scale-105 transition-transform duration-300 ease-in-out shadow"
-              src="/images/logo/logo.svg"
+              src="/images/logo/logo.png"
               width={1000}
               height={1000}
               alt="logo"

@@ -8,7 +8,7 @@ export function SectionTitle(props: any) {
       >
         {title}
       </h2>
-      <p className="text-center text-sm md:text-lg mt-3 text-gray-500">
+      <p className="text-center text-sm md:text-lg mt-3 md:mt-5 text-gray-500">
         {subtitle}
       </p>
       {child}
