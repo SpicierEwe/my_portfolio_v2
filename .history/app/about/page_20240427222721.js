@@ -23,10 +23,10 @@ export default function AboutPage() {
           <br />I have a passion for design and creation, with experience
           working on a variety of projects ranging from designing commercial
           ventures to developing complete applications. You can find examples of
-          my work in the
+          my work in the{" "}
           <Link href={"/#work"} className="font-bold mx-1">
             Work Section
-          </Link>
+          </Link>{" "}
           of my portfolio.
           <br />
           <br />

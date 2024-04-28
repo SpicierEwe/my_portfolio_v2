@@ -10,28 +10,28 @@ export default function AboutPage() {
         <h2 className="text-4xl font-bold text-center text-secondary-color md:text-7xl w-full">
           About me
         </h2>
-        Here&apos;s a professional version of your text:
+        Here's a professional version of your text:
         <p className="shadow-md rounded-lg bg-white p-5 md:p-9">
-          Hello, I&apos;m Hammad Bin Tayyab, a resident of the beautiful city of
-          Lucknow, India, where I&apos;ve spent most of my life so far.
+          Hello, I'm Hammad Bin Tayyab, a resident of the beautiful city of
+          Lucknow, India, where I've spent most of my life so far.
           <br />
           <br />
           I completed my intermediate studies at S.T. Fidelis College and am
-          currently pursuing a Bachelors degree in Computer Applications at
+          currently pursuing a Bachelor's degree in Computer Applications at
           Integral University, Lucknow.
           <br />
           <br />I have a passion for design and creation, with experience
           working on a variety of projects ranging from designing commercial
           ventures to developing complete applications. You can find examples of
-          my work in the
+          my work in the{" "}
           <Link href={"/#work"} className="font-bold mx-1">
             Work Section
-          </Link>
+          </Link>{" "}
           of my portfolio.
           <br />
           <br />
-          When I&apos;m not designing or developing, I enjoy exploring new
-          interests and making the most of life.
+          When I'm not designing or developing, I enjoy exploring new interests
+          and making the most of life.
         </p>
       </div>
     </div>
