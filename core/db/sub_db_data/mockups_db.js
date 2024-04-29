@@ -1,8 +1,8 @@
 export const mockupsDb = [
   {
-    phone_mockup_links: [],
     other_mockup_links: [
       "/images/mockups/nike_shoe_advertisement.png",
+      "/images/mockups/nature_company_landing_page.png",
       "/images/mockups/eat_healthy_mockup.svg",
       "/images/mockups/bot_mockup_theme_light.svg",
       "/images/mockups/bot_mockup_theme_dark.svg",
@@ -16,5 +16,6 @@ export const mockupsDb = [
       "/images/mockups/LVD_roll_up_banner.png",
       "/images/mockups/ATS_flyer.png",
     ],
+    phone_mockup_links: [],
   },
 ];
