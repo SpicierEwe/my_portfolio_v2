@@ -139,16 +139,7 @@ export const websitesDb = [
       "Technical Writer",
       "Project Manager",
     ],
-    techStack: [
-      "React",
-      "Redux",
-      "TailwindCss",
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "Git",
-      "Vercel",
-    ],
+    techStack: ["React", "Redux", "HTML", "CSS", "JavaScript", "Git", "Vercel"],
   },
   {
     projectId: "87693335-b9d6-434c-8428-5d8266482050",

@@ -57,7 +57,7 @@ export const CustomIcons = {
   },
   techStack: {
     nextjs: <SiNextdotjs size={iconSize} color="black" />,
-    redux: <GiMatterStates size={iconSize} color="orangeRed" />,
+    redux: <GiMatterStates size={iconSize} color="black" />,
     react: <FaReact size={iconSize} color="#e91e63" />,
     tailwindcss: <BiLogoTailwindCss size={iconSize} color="#38bdf8" />,
     typescript: <SiTypescript size={iconSize} color="#3178c6" />,
