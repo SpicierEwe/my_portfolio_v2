@@ -79,7 +79,7 @@ export const CustomIcons = {
     dart: <SiDart size={iconSize} color="#015496" />,
     adobexd: <SiAdobexd size={iconSize} color="#f75eee" />,
     figma: <SiFigma size={iconSize} color="#f24e1e" />,
-    emailjs: <SiAmazonsimpleemailservice size={iconSize} color="#ff8434" />,
+    emailjs: <SiAmazonsimpleemailservice />,
   },
 
   platforms: {

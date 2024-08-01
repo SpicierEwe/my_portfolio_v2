@@ -12,7 +12,7 @@ export const websitesDb = [
       "Data Analyst",
       "Designer",
       "Developer",
-
+      "Maintainer",
       "Product Manager",
       "Tester/Quality Assurance",
       "Researcher",
@@ -21,6 +21,7 @@ export const websitesDb = [
       "Project Manager",
     ],
     techStack: [
+      "NextJs",
       "React",
       "TypeScript",
       "TailwindCSS",
@@ -29,8 +30,6 @@ export const websitesDb = [
       "JavaScript",
       "Git",
       "Vercel",
-      "Redux",
-      "Firebase",
     ],
   },
   {
@@ -91,9 +90,6 @@ export const websitesDb = [
       "JavaScript",
       "Git",
       "Vercel",
-      "Firebase",
-      "Firebase Auth",
-      "Emailjs",
     ],
   },
   {

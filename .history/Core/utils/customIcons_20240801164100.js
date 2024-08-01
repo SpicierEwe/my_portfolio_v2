@@ -7,13 +7,7 @@ import {
 } from "react-icons/md";
 import { FaTools, FaApple } from "react-icons/fa";
 import { LuConstruction } from "react-icons/lu";
-import {
-  SiNextdotjs,
-  SiFlutter,
-  SiDart,
-  SiFigma,
-  SiAmazonsimpleemailservice,
-} from "react-icons/si";
+import { SiNextdotjs, SiFlutter, SiDart, SiFigma } from "react-icons/si";
 import {
   FaReact,
   FaHtml5,
@@ -79,7 +73,6 @@ export const CustomIcons = {
     dart: <SiDart size={iconSize} color="#015496" />,
     adobexd: <SiAdobexd size={iconSize} color="#f75eee" />,
     figma: <SiFigma size={iconSize} color="#f24e1e" />,
-    emailjs: <SiAmazonsimpleemailservice size={iconSize} color="#ff8434" />,
   },
 
   platforms: {

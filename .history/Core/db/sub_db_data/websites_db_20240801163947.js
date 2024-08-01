@@ -93,7 +93,6 @@ export const websitesDb = [
       "Vercel",
       "Firebase",
       "Firebase Auth",
-      "Emailjs",
     ],
   },
   {

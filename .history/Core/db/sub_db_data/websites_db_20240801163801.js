@@ -7,12 +7,12 @@ export const websitesDb = [
     projectTagLine: "Make your every holiday a memorable one.",
     link: "https://albaca.in/",
     imageLink: "/images/websites/albaca_international.png",
-    info: "Albaca International is Touring agency providing you packages and servies to convert your holidays into memoriable ones.",
+    info: "This portfolio project showcases a minimalist design, highlighting my work and skills with clarity and finesse. The aim was to provide a seamless user experience and intuitive navigation, creating a comprehensive and sophisticated display of my professional journey.",
     roles: [
       "Data Analyst",
       "Designer",
       "Developer",
-
+      "Maintainer",
       "Product Manager",
       "Tester/Quality Assurance",
       "Researcher",
@@ -21,6 +21,7 @@ export const websitesDb = [
       "Project Manager",
     ],
     techStack: [
+      "NextJs",
       "React",
       "TypeScript",
       "TailwindCSS",
@@ -29,8 +30,6 @@ export const websitesDb = [
       "JavaScript",
       "Git",
       "Vercel",
-      "Redux",
-      "Firebase",
     ],
   },
   {
@@ -91,9 +90,6 @@ export const websitesDb = [
       "JavaScript",
       "Git",
       "Vercel",
-      "Firebase",
-      "Firebase Auth",
-      "Emailjs",
     ],
   },
   {

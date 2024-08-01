@@ -21,6 +21,7 @@ export const websitesDb = [
       "Project Manager",
     ],
     techStack: [
+      ,
       "React",
       "TypeScript",
       "TailwindCSS",
@@ -29,8 +30,6 @@ export const websitesDb = [
       "JavaScript",
       "Git",
       "Vercel",
-      "Redux",
-      "Firebase",
     ],
   },
   {
@@ -91,9 +90,6 @@ export const websitesDb = [
       "JavaScript",
       "Git",
       "Vercel",
-      "Firebase",
-      "Firebase Auth",
-      "Emailjs",
     ],
   },
   {
