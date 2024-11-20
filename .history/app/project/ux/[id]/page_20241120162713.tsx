@@ -1,10 +1,11 @@
+"use client";
 import { db } from "@/core/db/db";
 import { getIcon } from "@/core/utils/utils";
 import Image from "next/image";
 import CaseStudyComponent from "../../../../components/Work_section/UX_case_study/case_study";
 
-export default async function Project({ params }: any) {
-  const { id } = await params;
+export default function Project({ params }: any) {
+  const { id } = params;
 
   const projectData = getProjectData(id);
 

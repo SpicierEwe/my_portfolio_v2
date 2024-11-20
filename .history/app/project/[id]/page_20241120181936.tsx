@@ -1,3 +1,4 @@
+"use client";
 import BrowserBarWidget from "../../../core/widgets/browser_bar_widget";
 import { db } from "../../../core/db/db";
 import { getIcon } from "../../../core/utils/utils";
