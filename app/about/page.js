@@ -16,19 +16,20 @@ export default function AboutPage() {
           About me
         </h2>
 
-     <p className="shadow-md rounded-lg bg-white p-5 md:p-9">
-  Hi, I'm Hammad Bin Tayyab, a dedicated and innovative Software Engineer based in Lucknow, India. Currently, I am in my final year, pursuing a Bachelor's degree in Computer Applications, where I have honed my skills to bridge the gap between technology and impactful solutions.
+   <p className="shadow-md rounded-lg bg-white p-5 md:p-9">
+  Hi, I'm Hammad Bin Tayyab, a dedicated and innovative Software Engineer based in Lucknow, India. I specialize in software design and development, with a strong focus on creating scalable, efficient, and intuitive applications. My experience spans a diverse range of projects, where I not only build robust solutions but also drive creative problem-solving to address complex challenges across various domains.
   <br />
   <br />
-  With a passion for building scalable, efficient, and intuitive software, I specialize in software design and development across a diverse range of domains. From creating robust applications to architecting seamless user experiences, I have a proven track record of delivering results that make a difference. My work includes not only technical solutions but also creative problem-solving for both commercial ventures and cutting-edge projects. You can explore a selection of my work in the 
+  From developing seamless user experiences to architecting high-performance systems, I am passionate about delivering results that make a real impact. You can explore a selection of my work in the 
   <Link href={"/#work"} className="font-bold mx-1">
     Work Section
   </Link> 
   of my portfolio.
   <br />
   <br />
-  Outside of coding, I am always exploring emerging technologies, constantly pushing myself to learn, grow, and stay at the forefront of the rapidly changing tech landscape. Whether it’s experimenting with new tools or tackling complex challenges, I thrive on turning ideas into reality. Let’s build something amazing together!
+  Outside of my work, I continuously explore new technologies, pushing myself to stay at the forefront of the ever-evolving tech landscape. Whether experimenting with new tools or refining my craft, I’m always eager to take on new challenges and build something amazing.
 </p>
+
 
       </div>
     </div>
