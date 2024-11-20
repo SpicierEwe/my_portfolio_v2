@@ -16,25 +16,20 @@ export default function AboutPage() {
           About me
         </h2>
 
-        <p className="shadow-md rounded-lg bg-white p-5 md:p-9">
-          Hi, I&apos;m Hammad Bin Tayyab, a software engineer based in Lucknow,
-          India. I am currently in my final year, pursuing a Bachelor&apos;s
-          degree in Computer Applications.
-          <br />
-          <br />I specialize in software design and development, with hands-on
-          experience in a wide range of projects, including building robust
-          applications and developing innovative solutions for commercial
-          ventures. You can explore some of my work in the
-          <Link href={"/#work"} className="font-bold mx-1">
-            Work Section
-          </Link>
-          of my portfolio.
-          <br />
-          <br />
-          Outside of my work in software engineering, I am passionate about
-          exploring new technologies and continuously improving my skills to
-          stay ahead in an ever-evolving field.
-        </p>
+     <p className="shadow-md rounded-lg bg-white p-5 md:p-9">
+  Hi, I'm Hammad Bin Tayyab, a dedicated and innovative Software Engineer based in Lucknow, India. Currently, I am in my final year, pursuing a Bachelor's degree in Computer Applications, where I have honed my skills to bridge the gap between technology and impactful solutions.
+  <br />
+  <br />
+  With a passion for building scalable, efficient, and intuitive software, I specialize in software design and development across a diverse range of domains. From creating robust applications to architecting seamless user experiences, I have a proven track record of delivering results that make a difference. My work includes not only technical solutions but also creative problem-solving for both commercial ventures and cutting-edge projects. You can explore a selection of my work in the 
+  <Link href={"/#work"} className="font-bold mx-1">
+    Work Section
+  </Link> 
+  of my portfolio.
+  <br />
+  <br />
+  Outside of coding, I am always exploring emerging technologies, constantly pushing myself to learn, grow, and stay at the forefront of the rapidly changing tech landscape. Whether it’s experimenting with new tools or tackling complex challenges, I thrive on turning ideas into reality. Let’s build something amazing together!
+</p>
+
       </div>
     </div>
   );
