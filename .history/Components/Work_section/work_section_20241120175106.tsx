@@ -26,7 +26,7 @@ export default function WorkSection() {
               <li
                 className={`${
                   isSelected ? "bg-brand-color" : ""
-                } px-5 md:px-7 py-2 rounded-full cursor-pointer`}
+                } px-3 md:px-7 py-2 rounded-full cursor-pointer`}
                 onClick={() => setSelectedNavItemIndex(index)}
                 key={index}
               >

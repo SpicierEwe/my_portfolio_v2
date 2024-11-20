@@ -36,15 +36,9 @@ export default function Project({ params }: any) {
         {/* top website bar */}
 
         {/* link button */}
-        <div className="flex  justify-end">
-          <a
-            href={link}
-            target="_blank"
-            className="flex text-sm rounded-t-xl pt-2 cursor-pointer  items-center justify-end gap-3  border p-1 px-3 bg-pink-500 hover:bg-pink-600 text-white"
-          >
-            <p>Visit Live</p>
-            <BiLinkExternal size={22} />
-          </a>
+        <div className="flex items-center justify-end gap-3 mb-3">
+          <p>Visit Live</p>
+          <BiLinkExternal size={22} />
         </div>
         <BrowserBarWidget link={link} />
         {/* ============ */}

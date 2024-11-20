@@ -95,19 +95,18 @@ export default function HeroSection() {
 
 const FloatingButtons = () => {
   return (
-    <a
-      href="https://www.linkedin.com/in/hammad-bin-tayyab-0390b3292/"
-      target="_blank"
-      className="absolute top-1/4 right-0 pr-10 p-5 py-3 border bg-gray-50 hover:bg-gray-200   z-[999] rounded-l-xl shadow-md transition-all ease-in-out duration-150 "
-    >
-      <div>
+    <div className="absolute top-1/4 right-0 pr-10 p-5 py-3 border   z-[999] rounded-l-xl shadow-md">
+      <a
+        href="https://www.linkedin.com/in/hammad-bin-tayyab-0390b3292/"
+        target="_blank"
+      >
         <Image
           src={"/images/LinkedIn_icon.svg"}
           height={30}
           width={30}
           alt="LinkedIn icon"
         />
-      </div>
-    </a>
+      </a>
+    </div>
   );
 };

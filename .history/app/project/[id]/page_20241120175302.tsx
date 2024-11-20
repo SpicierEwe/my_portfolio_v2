@@ -3,7 +3,6 @@ import BrowserBarWidget from "../../../core/widgets/browser_bar_widget";
 import { db } from "../../../core/db/db";
 import { getIcon } from "../../../core/utils/utils";
 import Image from "next/image";
-import { BiLinkExternal } from "react-icons/bi";
 
 export default function Project({ params }: any) {
   const { id } = params;
@@ -34,21 +33,9 @@ export default function Project({ params }: any) {
       {/* project image */}
       <div className="mt-16 px-5 mx-auto max-w-5xl md:mt-36 gap-x-3">
         {/* top website bar */}
-
-        {/* link button */}
-        <div className="flex  justify-end">
-          <a
-            href={link}
-            target="_blank"
-            className="flex text-sm rounded-t-xl pt-2 cursor-pointer  items-center justify-end gap-3  border p-1 px-3 bg-pink-500 hover:bg-pink-600 text-white"
-          >
-            <p>Visit Live</p>
-            <BiLinkExternal size={22} />
-          </a>
-        </div>
         <BrowserBarWidget link={link} />
         {/* ============ */}
-
+        {/* link button */}
         <a href={link} target="_blank">
           <Image
             className="mx-auto shadow-md border border-gray-300 rounded-md hover:translate-y-2  
