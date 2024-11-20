@@ -17,6 +17,23 @@ export default function NavBar(props) {
     document.body.style.overflowY = isMenuOpen ? "auto" : "hidden";
   }
 
+  // Determine if the current path includes the fragment (e.g., #work)
+  const getActiveClass = (link: string) => {
+    const hashIndex = link.indexOf("#");
+    const isHashLink = hashIndex !== -1;
+    const linkPath = link.split("#")[0]; // Remove the hash part to check path
+
+    if (isHashLink && window.location.hash === link.substring(hashIndex)) {
+      return "bg-brand-color text-white"; // Highlight the item
+    }
+
+    if (path === linkPath) {
+      return "bg-brand-color text-white"; // Highlight the item
+    }
+
+    return "";
+  };
+
   const navItems = [
     { name: "Home", link: "/" },
     { name: "Work", link: "/#work" },
@@ -51,7 +68,9 @@ export default function NavBar(props) {
             {navItems.map((item, index) => (
               <Link key={index} href={item.link}>
                 <li
-                  className={`cursor-pointer hover:bg-brand-color py-2 px-5 rounded-full hover:text-white transition-colors duration-200 ease-in-out`}
+                  className={`${getActiveClass(
+                    item.link
+                  )} cursor-pointer hover:bg-brand-color py-2 px-5 rounded-full hover:text-white transition-colors duration-200 ease-in-out`}
                 >
                   {item.name}
                 </li>

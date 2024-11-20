@@ -18,7 +18,7 @@ export default function WorkSection() {
         subtitle=" Journey through my projects, Unveiling Innovation and Creativity."
       />
       {/* nav */}
-      <nav className="sticky top-5 z-[99999] mt-12 md:mt-14 p-1   w-max mx-auto rounded-full bg-white shadow-sm border ">
+      <nav className="sticky top-5 z-[99999] mt-12 md:mt-14 p-1   w-max mx-auto rounded-full bg-white shadow-sm ">
         <ul className="flex justify-center  gap-2 flex-wrap">
           {navItems.map((item, index) => {
             const isSelected: Boolean = selectedNavItemIndex == index;
@@ -84,7 +84,6 @@ export default function WorkSection() {
                         alt={projectName}
                         height={200}
                         width={200}
-                        priority
                         layout={!isNavUx ? "responsive" : ""}
                       />
                     </div>

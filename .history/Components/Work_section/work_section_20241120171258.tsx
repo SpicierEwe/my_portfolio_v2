@@ -84,7 +84,6 @@ export default function WorkSection() {
                         alt={projectName}
                         height={200}
                         width={200}
-                        priority
                         layout={!isNavUx ? "responsive" : ""}
                       />
                     </div>

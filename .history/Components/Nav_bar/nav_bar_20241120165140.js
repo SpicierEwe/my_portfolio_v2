@@ -3,31 +3,59 @@
 import { getIcon } from "../../core/utils/utils";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { useState, useEffect } from "react";
+import { useEffect, useState } from "react";
 import Image from "next/image";
 
 export default function NavBar(props) {
-  const path = usePathname(); // Get the current pathname
-  const [isMenuOpen, setIsMenuOpen] = useState(false);
-  const [isHome, setIsHome] = useState(path === "/");
+  const path = usePathname();
 
-  // Toggle mobile menu visibility
+  const isHome = path === "/";
+
+  const [isMenuOpen, setIsMenuOpen] = useState(false);
+
   function handleMenu() {
     setIsMenuOpen(!isMenuOpen);
-    document.body.style.overflowY = isMenuOpen ? "auto" : "hidden";
+    if (isMenuOpen) {
+      document.body.style.overflowY = "auto";
+    } else {
+      document.body.style.overflowY = "hidden";
+    }
   }
 
+  const [fabricatedPath, setFabricatedPath] = useState(path);
+
+  useEffect(() => {
+    if (typeof window !== "undefined") {
+      const fragment = window.location.hash;
+      setFabricatedPath(path + fragment); // Combine pathname with the fragment
+    }
+  }, [path]);
+
   const navItems = [
-    { name: "Home", link: "/" },
-    { name: "Work", link: "/#work" },
-    { name: "About", link: "/about" },
-    { name: "Contact", link: "/contact" },
+    {
+      name: "Home",
+      link: "/",
+    },
+    {
+      name: "Work",
+      link: "/#work",
+    },
+    {
+      name: "About",
+      link: "/about",
+    },
+    {
+      name: "Contact",
+      link: "/contact",
+    },
   ];
 
   return (
     <section>
+      {fabricatedPath} {/* Debugging output */}
+      {/* if route is home make it float */}
       <div className={`${isHome ? "absolute z-20 w-full top-0" : ""}`}>
-        <nav className="flex justify-between items-center px-5 py-3">
+        <nav className="flex justify-between items-center px-5 py-3  ">
           <Link href="/" className="cursor-pointer">
             <Image
               className="rounded-full w-9 h-9 md:w-12 md:h-12 hover:scale-105 transition-transform duration-300 ease-in-out shadow"
@@ -38,7 +66,7 @@ export default function NavBar(props) {
             />
           </Link>
 
-          {/* Mobile Menu Toggle */}
+          {/* mobile */}
           <div
             className="xs:block sm:hidden rounded-full shadow p-2 bg-white"
             onClick={handleMenu}
@@ -46,12 +74,16 @@ export default function NavBar(props) {
             {getIcon("menu")}
           </div>
 
-          {/* Desktop Navigation */}
+          {/* desktop */}
           <ul className="hidden sm:flex gap-3 py-3 px-6">
             {navItems.map((item, index) => (
               <Link key={index} href={item.link}>
                 <li
-                  className={`cursor-pointer hover:bg-brand-color py-2 px-5 rounded-full hover:text-white transition-colors duration-200 ease-in-out`}
+                  className={`${
+                    fabricatedPath === item.link
+                      ? "bg-brand-color text-white"
+                      : ""
+                  } cursor-pointer hover:bg-brand-color py-2 px-5 rounded-full hover:text-white transition-colors duration-200 ease-in-out`}
                 >
                   {item.name}
                 </li>
@@ -60,8 +92,7 @@ export default function NavBar(props) {
           </ul>
         </nav>
       </div>
-
-      {/* Mobile Navigation */}
+      {/* mobile */}
       <div
         className={`${
           isMenuOpen ? "block" : "hidden"
@@ -93,7 +124,6 @@ export default function NavBar(props) {
           </ul>
         </div>
       </div>
-
       {props.children}
     </section>
   );

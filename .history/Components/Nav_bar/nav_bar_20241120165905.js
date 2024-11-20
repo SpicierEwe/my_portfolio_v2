@@ -51,7 +51,9 @@ export default function NavBar(props) {
             {navItems.map((item, index) => (
               <Link key={index} href={item.link}>
                 <li
-                  className={`cursor-pointer hover:bg-brand-color py-2 px-5 rounded-full hover:text-white transition-colors duration-200 ease-in-out`}
+                  className={`${getActiveClass(
+                    item.link
+                  )} cursor-pointer hover:bg-brand-color py-2 px-5 rounded-full hover:text-white transition-colors duration-200 ease-in-out`}
                 >
                   {item.name}
                 </li>

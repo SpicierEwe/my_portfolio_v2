@@ -18,15 +18,15 @@ export default function WorkSection() {
         subtitle=" Journey through my projects, Unveiling Innovation and Creativity."
       />
       {/* nav */}
-      <nav className="sticky top-5 z-[99999] mt-12 md:mt-14 p-1   w-max mx-auto rounded-full bg-white shadow-sm border ">
-        <ul className="flex justify-center  gap-2 flex-wrap">
+      <nav className="sticky top-5 z-[99999] bg-white w-max mx-auto ">
+        <ul className="flex justify-center mt-12 md:mt-14 gap-2 flex-wrap">
           {navItems.map((item, index) => {
             const isSelected: Boolean = selectedNavItemIndex == index;
             return (
               <li
                 className={`${
                   isSelected ? "bg-brand-color" : ""
-                } px-7 py-2 rounded-full cursor-pointer`}
+                } px-3 py-1 rounded-md cursor-pointer`}
                 onClick={() => setSelectedNavItemIndex(index)}
                 key={index}
               >
@@ -84,7 +84,6 @@ export default function WorkSection() {
                         alt={projectName}
                         height={200}
                         width={200}
-                        priority
                         layout={!isNavUx ? "responsive" : ""}
                       />
                     </div>

@@ -17,6 +17,30 @@ export default function NavBar(props) {
     document.body.style.overflowY = isMenuOpen ? "auto" : "hidden";
   }
 
+  // Determine if the current path includes the fragment (e.g., #work)
+  const getActiveClass = (link) => {
+    // Check if the link contains a hash fragment
+    const hashIndex = link.indexOf("#");
+    const isHashLink = hashIndex !== -1;
+    const linkPath = link.split("#")[0]; // Remove the hash part to check path
+    const linkHash = isHashLink ? link.substring(hashIndex) : "";
+
+    // Check if the path matches and if the hash fragment matches
+    if (isHashLink) {
+      // For links like /#work, ensure the path matches and the hash part matches
+      if (path === linkPath && window.location.hash === linkHash) {
+        return "bg-brand-color text-white"; // Highlight the item
+      }
+    } else {
+      // For non-hash links, just check if the path matches
+      if (path === linkPath) {
+        return "bg-brand-color text-white"; // Highlight the item
+      }
+    }
+
+    return "";
+  };
+
   const navItems = [
     { name: "Home", link: "/" },
     { name: "Work", link: "/#work" },
@@ -51,7 +75,9 @@ export default function NavBar(props) {
             {navItems.map((item, index) => (
               <Link key={index} href={item.link}>
                 <li
-                  className={`cursor-pointer hover:bg-brand-color py-2 px-5 rounded-full hover:text-white transition-colors duration-200 ease-in-out`}
+                  className={`${getActiveClass(
+                    item.link
+                  )} cursor-pointer hover:bg-brand-color py-2 px-5 rounded-full hover:text-white transition-colors duration-200 ease-in-out`}
                 >
                   {item.name}
                 </li>
