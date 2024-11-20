@@ -17,7 +17,7 @@ export default function AboutPage() {
         </h2>
 
    <p className="shadow-md rounded-lg bg-white p-5 md:p-9">
-  Hi, I'm Hammad Bin Tayyab, a dedicated and innovative Software Engineer based in Lucknow, India. I specialize in software design and development, with a strong focus on creating scalable, efficient, and intuitive applications. My experience spans a diverse range of projects, where I not only build robust solutions but also drive creative problem-solving to address complex challenges across various domains.
+  Hi, I&apos;m Hammad Bin Tayyab, a dedicated and innovative Software Engineer based in Lucknow, India. I specialize in software design and development, with a strong focus on creating scalable, efficient, and intuitive applications. My experience spans a diverse range of projects, where I not only build robust solutions but also drive creative problem-solving to address complex challenges across various domains.
   <br />
   <br />
   From developing seamless user experiences to architecting high-performance systems, I am passionate about delivering results that make a real impact. You can explore a selection of my work in the 
