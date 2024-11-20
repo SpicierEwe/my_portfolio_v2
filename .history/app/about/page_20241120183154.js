@@ -17,23 +17,26 @@ export default function AboutPage() {
         </h2>
 
         <p className="shadow-md rounded-lg bg-white p-5 md:p-9">
-          Hi, I&apos;m Hammad Bin Tayyab, a software engineer based in Lucknow,
-          India. I am currently in my final year, pursuing a Bachelor&apos;s
-          degree in Computer Applications.
+          Hello, I&apos;m Hammad Bin Tayyab, a resident of the beautiful city of
+          Lucknow, India, where I&apos;ve spent most of my life so far.
           <br />
-          <br />I specialize in software design and development, with hands-on
-          experience in a wide range of projects, including building robust
-          applications and developing innovative solutions for commercial
-          ventures. You can explore some of my work in the
+          <br />
+          I completed my intermediate studies at S.T. Fidelis College and am
+          currently in my final year of pursuing a Bachelors degree in Computer
+          Applications.
+          <br />
+          <br />I have a passion for design and creation, with experience
+          working on a variety of projects ranging from designing commercial
+          ventures to developing complete applications. You can find examples of
+          my work in the
           <Link href={"/#work"} className="font-bold mx-1">
             Work Section
           </Link>
           of my portfolio.
           <br />
           <br />
-          Outside of my work in software engineering, I am passionate about
-          exploring new technologies and continuously improving my skills to
-          stay ahead in an ever-evolving field.
+          When I&apos;m not designing or developing, I enjoy exploring new
+          interests and making the most of life.
         </p>
       </div>
     </div>

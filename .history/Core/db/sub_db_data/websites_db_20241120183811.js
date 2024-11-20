@@ -203,15 +203,7 @@ export const websitesDb = [
       "An assignment to create a simple movie app using React and Redux",
     link: "https://stratex-movies-assignment.vercel.app/",
     imageLink: "/images/websites/stratex_movies_assignment.png",
-    info: `This assignment was provided by a company as part of a quick review to assess core proficiency in React and Redux. The objectives for this assignment include:<br> 
-    • The API used to fetch data must be private, utilizing environment variables.<br>
-    • The application must be fully responsive across all devices, including desktops, tablets, and smartphones.<br>
-    • The app must feature two screens: 1. Home Screen 2. Favourites Screen.<br>
-    • Redux should be used to manage the app’s entire state.<br>
-    • Favourited movies must appear in the exact order in which they were added.<br>
-    • The application should have a clean, user-friendly UX/UI design.<br>
-    • The code must be well-structured, professional, and adhere to best practices for modularity and reusability.<br>
-    • The app should be deployed on either Vercel or Netlify.`,
+    info: `This assignment was given by a Company as a quick review. The goal of this assignment was to test the core understading of React and Redux, which are :<br> • The API used to get the data must be private (must be an environmental variable).<br>• The App must be responsive for all the devices. Desktops, Talets, Phones etc.<br>• The App must contain 2 screens 1. Home Screen 2. Favourites Screen.<br>• The App must use Redux to manage the entire state of the app.<br>• The Favourite movies must occour in the exact form they were added to favourites.<br>• The App should have a good and simple UX and UI design.<br>• The App must be written in clear code and professional structure including modularity and reusuability.<br>• The App should be deployed on Vercel or Netlify.`,
     roles: [
       "Designer",
       "Developer",
