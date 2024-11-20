@@ -50,6 +50,8 @@ export default function MockupsSection() {
                             src={link}
                             width={1000}
                             height={1000}
+                            quality={100}
+                            priority
                             alt="Mockup image"
                           />
                         </div>

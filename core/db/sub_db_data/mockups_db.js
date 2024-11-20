@@ -1,7 +1,10 @@
 export const mockupsDb = [
   {
     other_mockup_links: [
+      "/images/mockups/minimal_modern_restaurant_menu_enhanced.png",
+      "/images/mockups/minimal_modern_restaurant_menu_compact.png",
       "/images/mockups/nike_shoe_advertisement.png",
+      "/images/mockups/playful_testimonal_design.png",
       "/images/mockups/nature_company_landing_page.png",
       "/images/mockups/Xero_door.png",
       "/images/mockups/eat_healthy_mockup.svg",
