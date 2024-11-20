@@ -5,8 +5,8 @@ import { getIcon } from "../../../core/utils/utils";
 import Image from "next/image";
 import { BiLinkExternal } from "react-icons/bi";
 
-export default async function Project({ params }: any) {
-  const { id } = await params;
+export default function Project({ params }: any) {
+  const { id } = params;
 
   const {
     projectName,
