@@ -5,7 +5,7 @@ export const websitesDb = [
     projectName: "Albaca International",
     projectId: "e2f9658b-f9bb-4d2c-ac8c-114sxw56d9204f",
     projectTagLine: "Make your every holiday a memorable one.",
-    link: "https://albaca.in/",
+    link: "https://dev-albaca.vercel.app/",
     imageLink: "/images/websites/albaca_international.png",
     info: "Albaca International is Touring agency providing you packages and servies to convert your holidays into memoriable ones.",
     roles: [
